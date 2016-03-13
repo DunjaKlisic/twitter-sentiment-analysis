@@ -1,0 +1,2006 @@
+@relation trainingData
+
+@attribute text string
+@attribute sentiment_class {positive,negative}
+
+@data
+'На дншан дн пред 13 године кометал гу освои европску титулу ',positive
+'USERNAME  затоа и за Уругвај без на светско \nпосле Германија, оф корс',positive
+'USERNAME  ај бе прај се као демек си возел до Германија и назад! Те боли цеф! ',positive
+'#joboffer Метко.  URL',positive
+'USERNAME  USERNAME  ...ма знам, најгори су ми ти што воле, па се сав презнојим...болестан неки свет, воли батине......',positive
+'USERNAME  ха ха ова најјако е  USERNAME ',positive
+'USERNAME  USERNAME  ...ау, шта ти је рек`о, је бо тее........',positive
+'USERNAME  USERNAME  ...тебе су Сркс тукли, али те нису тукли довољно...али исправићемо ми ту грешку система......',positive
+'Ај ем \'д мастер оф бекгамон ',positive
+'USERNAME  ...јебо их беџ...све сам их пописао и списак се поклапа са списком под називом ,,Атеншн бичиз,,...мене ће они, банда......',positive
+'Која е веројатноста од наназад години, Арсенал да одбрани трофеј, и да го одбрани Фа Купот?! ',positive
+'USERNAME  ...ево...сад баш изнова објашњава све о авио бизнису...он је једноставно ренесансни лик......Леонардо па он...',positive
+'дело говорит \np i z d a\nn a m\nz a v t r a URL',positive
+'USERNAME  Реци брате мој\nСви ме спрдају због тога ',positive
+'USERNAME  то ми је као да ни не пишем ништа или се не пресвлачим... једно од то двоје ',positive
+'USERNAME  не могу, годинама сам имао бана ',positive
+'USERNAME  ...мени је најсмешније ,,...али је ухваћена...,,....много смешно......',positive
+'Љубитељи милион отворених табова у Chrome-у, уједините се! \n\nThe Great Suspender екстензија прискаче у помоћ: URL',positive
+'URL Мој Ђак! ',positive
+'USERNAME  USERNAME  зависи чиј мир ',positive
+'USERNAME  сакам скопје  jesi ti to otišo u prosvjede?',positive
+'USERNAME  Господово перење ',positive
+'USERNAME  ...па кад си Пресветли Султан, сведржилац и заштитник правоверних......',positive
+'USERNAME  шолом, бро ',positive
+'USERNAME  болоњезе на моравски начин ',positive
+'USERNAME  USERNAME  клитор штоле? ',positive
+'USERNAME  гордиев чвор и тоа! ',positive
+'USERNAME  реков јас ',positive
+'USERNAME  ...па јел би ти сејао кромпир сад по овој врућини...?......',positive
+'USERNAME  Број 11, убиствено лево крило ',positive
+'USERNAME  генеза ',positive
+'USERNAME  USERNAME  ...треба прво да ме ухвате, госпођо......',positive
+'USERNAME  мочање во глобала ',positive
+'USERNAME  ...по потреби...ако се занесу у крађи па им јаве из финансијског да нема за плате џандарима.....а џандарима мора да буде плата',positive
+'USERNAME  USERNAME  USERNAME  Није широки, аба је већ била завршена, Кецман то обавио.   Мислим да је био Борац Чачак.',positive
+'Срећан Вам рођендан, све најбоље, USERNAME  .  #skupstina',positive
+'USERNAME  Фала мајко. Се трудам! ',positive
+'.USERNAME  Где се налази шалтер на коме Мишковић исплаћује нас који критикујемо Вучића на Твитеру? Молим РТ, нисам из Београда! ',positive
+':Белгород-22 \nРодина ',positive
+'USERNAME  ...раскринкали смо их, Горанче, данас два раскринкавања.......',positive
+'USERNAME  идејата било ова да е “порта“ на градот. Незнам од кај црпел инспирација али од Шанзелизе,како некој, сиугрно не. ',positive
+'USERNAME  пола миЉон. ',positive
+'USERNAME  Мислим да бих дао бољу оцену о Македонији него лик који говори да су #Куманово напали једнорози, а не #UÇK!  Могу овако до сабајле!',positive
+'USERNAME  Значи, ипак ћемо вазда` нечег бити жељни. Пусто људско...',positive
+'USERNAME  ......широке и дубоке су територије сексуалних фантазија...',positive
+'USERNAME  шестерка Пентагона пишет про путинских адептов ',positive
+' pa ko sada koga ovdje j.be?? #Političari #lopovi #laž #narod #RS\n  Закон измијењен игнорисањем РС URL',positive
+'USERNAME  преферирам static typing тренутно. Тренутно сам у тој фази ',positive
+'USERNAME  Демократска Република Македонија ',positive
+'USERNAME  ањњњ какво ее гушкалче малечко ',positive
+'USERNAME  ...хихихи....знам ја ко је на нишану твог снајпера...јадан човек, а волео сам га као рођеног брата......',positive
+'USERNAME  мм,може се рећи ',positive
+'USERNAME  USERNAME  ...Пресветли Султане, пријатељу Србије, па ви рачунате у десетинама и стотинама милиона, то вам је за семенке...',positive
+'USERNAME  види ти моје Рибе,први пут да се јави  *\nТако је мила ',positive
+'USERNAME  USERNAME  е он је...ништа обоје сте цареви...',positive
+'USERNAME  USERNAME  епа супер ',positive
+'USERNAME  ...ти си краљица Твитера...мада бих се заклео да је било у мушком роду, ал` могуће да је неко мазнуо...',positive
+'USERNAME  USERNAME  ...али није он прике више Дракула, он је Султан од Брунеја, наш пријатељ...',positive
+'Чек да избројим, овај закон има 53,58, оп, бзбв 71,73, бзв ...78 чланова.  Какав сте Ви USERNAME  краљ. ',positive
+'USERNAME  Ево, видим промовисао видео на ЈТ, рекламира, избацио је. То је та прича. ',positive
+'USERNAME  Искрена да будем, понекад баш испаднем ћурка. ',positive
+'Петух - Ричард.     URL',positive
+'USERNAME  USERNAME  ...може, само мора да буде ,,шпански церемонијал,, да нам се ,,пријатељ,, не увреди......',positive
+'USERNAME  ...последњу жену која је живела са мном сам буквално спасао ,,унесрећивања,, тако да је биографски......',positive
+'USERNAME  ...ал` онда ја да будем Премијер, и ти да дођеш и да будемо пријатељи...и да се кезиш ко морон......',positive
+'USERNAME  Југа гробар, завршио у Звезди, сад у Радничком, Шефик гробар, завршава у Звезди, Деки исто, сад тренер, Вујас наш води њих ',positive
+'   најзад му је неко узвратио URL',positive
+'USERNAME  USERNAME  Не знам стварно, не пратим те емисије ',positive
+'USERNAME  њих двије су ми стварно као сестре,већ 9 година,а ове остале... ',positive
+'Тинки Винки је мој добар другар и поручио бих му да се не зеза пуно.  USERNAME  USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  ...какве би ја тек макете правио насеља на Марсу...па онда свемирски бродови колоније...па били би шокови...',positive
+'USERNAME  лелее 12ка од Србија и Босна како ништо! ',positive
+'USERNAME  ...е, хвала ти Миодраже, сад ми је лакше...човек си.......',positive
+'Сад га гледам уживо,а нема да одговори USERNAME  сумњив ми је USERNAME  много, а куне се да није Шутановац, као \"нисам образа ми\" ',positive
+'USERNAME  ...па вода ми иде на уста...а можда те пали, можда је нека слама?.....',positive
+'USERNAME  Да ли ја то слутим насиље овде?  ',positive
+'USERNAME  ти си бре Миодраже ко ови што сликају храну...',positive
+'USERNAME  може једна линијица,чисто ако се мали погуби ',positive
+'Ма није USERNAME  господин USERNAME  Шуле.  Куне се да није,каже \"нисам части ми\".  Рекох части ти, ја сам 12 година чашћавао ',positive
+'USERNAME  беаутифул еиес! ',positive
+'Вероватно се томе USERNAME  није  USERNAME  надао.  Живот је чудо. ',positive
+'USERNAME  нее, треба времена да се људи \"ослободе\" ',positive
+'Некој за топено сиренце?  URL',positive
+'USERNAME  USERNAME  Врло аргументовано! ',positive
+'Свалила из дома ',positive
+'USERNAME  ако их нема на лајни ти сачекај мало,сад ће у ДМ браћа моја Делије ',positive
+'USERNAME  о носату Кејт је таква у филму  Бар у овој верзији Вајат Ерп',positive
+'USERNAME  USERNAME  Немам ја више времена за чекања, све и да хоћу, Борисе, ',positive
+'Савршено\nЈош да је у великој резолуцији... брутал \nФала URL',positive
+'USERNAME  ...зајебао си ме Стајо, сад ћу и ја да гледам а мрско ми било да тражим даљински...',positive
+'USERNAME  То је та прича.  Зна и USERNAME , причали смо о навијачкој свести и раније. ',positive
+'Нова национална валута по ДС-у ће постати сендвичи са кавурмом  USERNAME  USERNAME ',positive
+'Могу ли то они - ипак је виша математика поштено зарадити плату  USERNAME  USERNAME ',positive
+'USERNAME  милашка ',positive
+'USERNAME  Нисам сигуран, али није ни битно. Предуго се бавим овим да бих променио мишљење што се ове теме тиче, немогуће је. ',positive
+'Батина је из раја изашла!  URL',positive
+'USERNAME  Хвала што ме је неко ипак разумео. Не волим крађе. ',positive
+'USERNAME  ањњњњ ^_^ скрос патриотски ',positive
+'Крепим #фото на стену  #тюмень  URL',positive
+'USERNAME  ...добра је риба Олгица нарочито кад стави наочаре, него много ради, упропасти је политика......',positive
+'USERNAME  што је најјаче ја сам прек те епизоде и сазнао за случај ешерсове пекаре ',positive
+'USERNAME  Е, насмеја ме, пријатељу...',positive
+'USERNAME  увијек , а то и јеси, ништа додао ни одузео ...',positive
+'USERNAME  ...ма јок, момак је само денди......',positive
+'USERNAME  USERNAME  многу тврда вожња има ',positive
+'Ако не била на утакмицава и после на прославата на плоштад, мала е за тебе. \nЕжења беа тоа, ежења  URL',positive
+'Најтачнији опис  URL',positive
+'Срећом па је моја комшиница ноћу у кафани!  URL',positive
+'USERNAME  ...значи, што би наш народ рекао ,,јебо` му је кеву,,......',positive
+'USERNAME  Мислим да знамо обојица да је Лале бивши још од дербија. ',positive
+'USERNAME  како да не, оно импровизовано суђење у ком дајан учествује  али нису предвидјели, баратају они стварним случајевима стално ',positive
+'USERNAME  ...друже, кад већ пратиш, јел Борко фино опаљен...мислим на тен......?...',positive
+'Kod nas se, doduše, zvao Tata Brada \n\n45 година од објављивања Барбапапе #GoogleDoodle\nURL',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Сад ћемо да рекламирамо USERNAME (КИСС), ал шта ће ова три бенда да кажу на то?',positive
+'USERNAME  онда ћеш схватити на пиву, чим га организујемо ',positive
+'USERNAME  па јел ће буде свадба? ',positive
+'USERNAME  он ти једини сигуран за сваку владу! ',positive
+'USERNAME  USERNAME  али замислите моју збуњеност- из ничега искаче онај твит и не отвара ми остатак конверзације ',positive
+'USERNAME  аа сад видим читаву конверзацију, није хтјело малоприје да ми излиста све  хвала USERNAME  ',positive
+'USERNAME  Арена,кај Тетекс  ',positive
+'USERNAME  видиш сад зашто нисам материјал за вашу организацију ',positive
+'USERNAME  ...а, извини...сад се мало осећам приглупо...ма, нема везе...',positive
+'URL хаха јопет, али у моју одбрану нисам гледао са мапама као прави лудак ',positive
+'USERNAME  Стварно, какве су му ово порције за причест   USERNAME ',positive
+'USERNAME  USERNAME  ...јебига, кад нема јагњетине добар је и роштиљ...',positive
+'слава Богу! ',positive
+'USERNAME  It\'s my duty and pleasure млада госпођице да вам уљепшам дан ',positive
+'USERNAME  Што дрвца?  USERNAME  USERNAME ',positive
+'USERNAME  еуролинк, кај плоштад ',positive
+'Како Саше Политико замишља анкета  URL via USERNAME ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Марка је Филиповић увео у први тим у сезони 01/02... А после њега смо имали Срећковића ',positive
+'.USERNAME  увек је добро на време заштитити све своје производе/брендове/услуге да касније не боли глава. USERNAME  то вероватно има у виду ',positive
+'Radiohead - From the Basement\nURL\n\nпушти и уживај ',positive
+'.прослава и контра-матурска прослава на годишнина од матура на две различни дати, u decide?!? #wtf #протестирам ',positive
+'USERNAME  сваки дан ,добар дан ',positive
+'Врхунац мог комплимента жени је: Вечерас дивно изгледаш! Хајдемо негде у мрак! ',positive
+'USERNAME  рекох ја, остарићу, зору преварити нећу  даан мала ',positive
+'USERNAME  видим како му испада есцајг из падобрана! ',positive
+'Сач доге   URL',positive
+'USERNAME  На ничија земја, само која би била ничија земја ',positive
+'USERNAME  али слика оштра, да се посечеш! ',positive
+'Ех да је среће биило, ти би самном спаваала...  hahaha',positive
+'USERNAME  ...то Животићу...нек види банда шта је теорија ,,крви и тла,,...',positive
+'Ознака на WCто за контра протестанти: „KWC - Контра WC“',positive
+'USERNAME  USERNAME  НИСАМ, ИМА ЛУЂИХ ОД МЕНЕ ',positive
+'USERNAME  USERNAME  ...Величанствени, по сто марке да си то у ствари био ти......',positive
+'USERNAME  Јес, ОК, донт тел енибоди.',positive
+'USERNAME  USERNAME  реално, набавићемо и ми себи бомбе ',positive
+'USERNAME  ...и не знаш да га зову Гиле Габор?...нема везе, зато доста знаш о Бугарима...то је много важније......',positive
+'USERNAME  ...како, братко мили, то ниси чуо, во имја Оца и Сина и Свјатога Духа Амен......',positive
+'USERNAME  ...већа је мистерија зашто Гилета Габора зову Гиле Оргазам......',positive
+'USERNAME  .......јесте, Симо, баш је тако...или гласа за Кристијана, па после сере против свега и свачега.......',positive
+'USERNAME  одлична епизода и прича, једна од мојих омиљених! Тројански рат због лепе Јелене на МаксБункеров начин! ',positive
+'USERNAME  ...у Милана Ракића...дал` је могуће, па ја сам мислио да је то библиотека у ствари....',positive
+'#LIKE i Saram Ti ZID.  (Y) — осећам се опуштено',positive
+'USERNAME  USERNAME  Узда ',positive
+'USERNAME  нету велика ',positive
+'USERNAME  супер информација. Фала Сању ',positive
+'USERNAME  пријаће и мами, а и бебани ',positive
+'USERNAME  па и да хоћеш, без мапе се не би снашао! ',positive
+'Нешто ме данас оће тај ритвит и фејв...\n\nПу,пу да вас не урекнем...\n\nЈош да ме крену мудролије...\n\n',positive
+'USERNAME  USERNAME  Честиткава беше у стил на \'три гонга\' радио емисија на РадиоСкопје 1 програма од пред 100 години ама како и да е ',positive
+'USERNAME  USERNAME  ма дочекаћемо и Мандушиће  ...ја познајем неке  ...није Његош имао боље окружење кад је писао ...',positive
+'USERNAME  иби,  ишонмаяпсизми.?',positive
+'USERNAME  прељепота ',positive
+'USERNAME  љубоморен  USERNAME ',positive
+'USERNAME  детс ријалити.... ',positive
+'USERNAME  Детс мај поинт, егзекли!  ❤️',positive
+'USERNAME  \nГвоздена реч сва поглавља отвара ',positive
+'USERNAME  Ај вуд ду евритинг фор ју. ',positive
+'USERNAME  Е па онда неко ко колико-толико може да види разлику објасни шта је шта и шта је књига, а шта гомила потрошене хартије. ',positive
+'USERNAME  Добро, да не ширимо даље, ја сам рекао шта сам имао. А углавном не пишем дословно и буквално овде. ',positive
+'USERNAME  па после нека оди нека крши глава.   Јунајтед бара 50 милиони',positive
+'USERNAME  Не бих да расправљам о поређењу аутомобила и књига. Тиме се бавим прилично и не пишем напамет.  Написао сам шта мислим. ',positive
+'Sony “звучналица“ или “сијалник“ \n\nURL URL',positive
+'USERNAME  гушка да ти помине ',positive
+'USERNAME  А шта очекивати од тебе кад ти је \"бот\" прво радно место? Ништа, наравно...Запитај се младићу ',positive
+'USERNAME  с обзиром на све што се дешава, а што утиче на јавно мнјење, мислим да је добар резултат. замисли наш резултат ',positive
+'USERNAME  то су обичне фекалије а зна се где оне заврше ',positive
+'USERNAME  Није, није, само је порастао број људи који се скидају са бироа. ',positive
+'USERNAME  на молитвен појадок ',positive
+'USERNAME  жива вистина! ',positive
+'USERNAME  ја не могу да прежалим свог shoei-а ',positive
+'USERNAME  Срцето М.Стојановски да не е.. ',positive
+'USERNAME  мора тако кад је врућина ',positive
+'Тако је то у Србији!  URL',positive
+'USERNAME  ми се зажалуе искрено, пуцај! ',positive
+'USERNAME  Све је то у циљу промоције лепог Костајника. Историја, лепоте   USERNAME ',positive
+'USERNAME  на паноу матураната од ученице мислио да је професорица ',positive
+'Уживанција . Нисам био на кафици не памтим,уништише ме ове еуроинтеграције   URL',positive
+'USERNAME  кој писне г**** стисне, #тризапозорчетирисад ! ',positive
+'USERNAME  поезија би рекол ',positive
+'USERNAME  значи сви смо ту, као некада.. ',positive
+'USERNAME  Слажем се и ја да фали још једна социјалистичка револуција ',positive
+'Сад само размишљам о томе где могу да одем са бициклом и где да га вежем, тј паркирам  никако то телепромптовање да уведу.',positive
+'USERNAME  двете ај  не барам оштета',positive
+'USERNAME  4. седење на промаја ',positive
+'USERNAME  Ако ти је тако лакше да мислиш нема проблема...ове сезоне смо Бог а ви шеширџија...Мало шале, нема љутње...',positive
+'USERNAME  А види га како их је окренуо, да не провалимо чиме се занима ',positive
+'USERNAME  оћеш са мном ',positive
+'USERNAME  Фала <3, од твоја уста до уши на комерцијална банка ',positive
+'USERNAME  тоо пријатељу ',positive
+'Потом литра ',positive
+'USERNAME  Бинава од митинзиве ја собрале? ',positive
+'USERNAME  па нема потреба  ',positive
+'USERNAME  Шта од Чарапана да очекујеш сем да те куну ',positive
+'USERNAME  у пензији сам од данас ',positive
+'USERNAME  на заметку  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  URL',positive
+'Протест-контрапротест, камп-контракамп уште остана оставка-контраоставка.  Just do it.',positive
+'USERNAME  USERNAME   and Vice President and  Трајче  дрварчето ',positive
+'Ааајјјјјдее  дообро утро нека ви ее... Туруруруруруу',positive
+'USERNAME  одна из них - она сама ',positive
+'Бонжур ',positive
+'USERNAME  Видео сам давно када си га поставио, сада сам се подсетио  Мени се често дешава да ми овакви возачи буса \"блицају\" иза леђа.',positive
+'Serçelerle börek kumpantası  (USERNAME  кафе клуб Бакарди in Кърджали) URL URL',positive
+'Serçelerle börek kumpantası  (USERNAME  кафе клуб Бакарди in Кърджали) URL URL',positive
+'USERNAME  Красаучег, брат! ',positive
+'“USERNAME : Ewgenij Bitkin, Russian dance, 1905 (Е.Биткин, Хоровод) #PaintedDancers USERNAME  URL” ',positive
+'чувак, не згуби мешти ',positive
+'USERNAME  Рана хејтерка ',positive
+'USERNAME  USERNAME  папелац ',positive
+'Letras de Canciones Одноклассник  - Школа de traducción URL',positive
+'USERNAME  луд јебе збуњеног ',positive
+'USERNAME  Епа брат,вози си точак у природа. што мајка бараш у теретана ',positive
+'USERNAME  друштво? ',positive
+'Год назад  URL',positive
+'USERNAME  На море с портретом Путина ',positive
+'USERNAME  они и Русија 145 милиони округло  USERNAME ',positive
+'Моментално над Скопје лета Боинг 747 на релација Тел Авив-Нју Јорк ',positive
+'Весна по-истине красива  USERNAME  Moscow Botanical Garden of Academy of Sciences URL',positive
+'USERNAME  мила јовович  и од тру детектив раст',positive
+'USERNAME  Није иритантније од Ћеранићкине акцентације свог имена. ',positive
+'USERNAME  Еве пак те гушкам во тој случај. ',positive
+'Уз прелепу романсу, Понекад, желим вам пријатну ноћ. \nURL URL',positive
+'USERNAME  најубаво ',positive
+'USERNAME  Па зар то није исто ',positive
+'USERNAME  и то два пута,машала  Обрни окрени-кажу највећа је то срећа ',positive
+'USERNAME  Зар његов ћале није удбаш, а и он сам? ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Слађе ми је овако... Да се зна ко је истрајнији : )))',positive
+'USERNAME  Та да  А кренула је опако : )))',positive
+'Највреднији људи из треће смене!Задужени за чистоћу нашег града.Поздрав од уредника,ноћне конзроле  URL',positive
+'USERNAME  ама и: због таквог живота твог, моји се снови руше! ',positive
+'Уз романсу, Дајте ми вино, желим вам пријатну ноћ. \n URL',positive
+'USERNAME  ,,и мрзим лепоту твојуу, јер немаш срца, јер немаш душе\" стара цецина! ',positive
+'USERNAME  па не зборев ни јас за хаштагот ',positive
+'USERNAME  од гинеколог си боље, а од дј- зависи од кој ',positive
+'USERNAME  иц Џулај, браво ',positive
+'USERNAME  USERNAME  USERNAME  епа... чај од брусница ',positive
+'USERNAME   поражен сам... понијела ме прича ',positive
+'Уз романсу, Требам те, желим вам пријатну ноћ. \n URL',positive
+'USERNAME  Честитам родила се на мој рођендан  Биће коврџава, насмејана и непослушна ',positive
+'ај здраво лаку ноћ довиђења и пријатно ',positive
+'USERNAME  не бе брат, седат јер им је прекипело ',positive
+'USERNAME  Некако се сконцентрисах за озбиљан твит. ',positive
+'USERNAME   па не мислим да би значајније утицало на избор хаљина/одијела, но то не значи да школа треба да дигне руке од пристојности',positive
+'USERNAME  Срећан ти рођендан!!!  Уживај у свом дану!!! ',positive
+'USERNAME  покрај Palace Pier или Hove ',positive
+'You can never fool an engeneer,јер пола факс математика му бил ',positive
+'USERNAME  чији, моје матуре?  гледајте, и суд слави нову годину, па знају доћи свакакви, али на суду су пристојни. зна се ред',positive
+'USERNAME  пластична је чаша,не ломи се ',positive
+'USERNAME  Сигурно јако се дотерала ',positive
+'USERNAME  Знам, знам, али ово је друго ',positive
+'Ајде потпишвајте. Некој петиција напрајл  #долувлада #ЗбогумНикола URL',positive
+'Не брини, јак је и мој кунг фу.  USERNAME ',positive
+'USERNAME  сеа Коце да зема почне да зема туристичка такса ',positive
+'Јок, што?  USERNAME ',positive
+'Девојке, не растрзајте политику туја по фб..\nРастрзајте тамо некоју баницу гладан сам ! ',positive
+'USERNAME  Шести прст? ',positive
+'Не једу они сендвиче , као ови дс ботови.  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME ',positive
+'USERNAME  шта је бре ово??  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME ',positive
+'USERNAME  видиш, сви профитирају од тога што ћу наплаћивати  капитализам у најбољем свјетлу ',positive
+'USERNAME  USERNAME  еве ја замената за Де Геа  URL',positive
+'Госпођа USERNAME  воли да твитује са USERNAME  , можда јој смета USERNAME   или јој се иде у USERNAME  ? Све то чита USERNAME  госпођо. ',positive
+'USERNAME  не знам, али ја и кад причам овдје, не слушају ме... ем бесплатно, ем џаба ',positive
+'USERNAME  SciFi. Иако, не знам, тој жанр ми стана најреален  USERNAME ',positive
+'USERNAME  само ја будала радим ово про боно  ... ок, од сад наплаћујем!',positive
+'USERNAME  стај бомба и рокни ја. ',positive
+'USERNAME  \nСтај го стиви реј вон аватар, \nА не Хендрикс! ',positive
+'USERNAME  Углавном, посвађали се, овај пуцао и збрисао, дечко рањен у руку и није животно угрожен. Укратко ',positive
+'USERNAME  морее, два метра су висок, нуму ногу! ',positive
+'USERNAME  ја сам одушевљен какви смо ми цареви... па попушимо све форе овог свијета! ',positive
+'USERNAME  Најтврдокорни и тоа. ',positive
+'USERNAME  уф јако машинчево инаку читав многу бара игрицава ',positive
+'Чекам поноћ да видим ко ће ми први честитати рођендан ',positive
+'USERNAME  појачај фотони и спушти ја колата бе ',positive
+'USERNAME  јас така за време на распусти ',positive
+'А ове приститутке, да то нису ове што тек треба да пристигну из Северне Осетилигаје, госпођо лепотице?   USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  USERNAME  Ждерење, како го викале ',positive
+'И ви сте USERNAME  узели тај кредит?  Зато толико цвикате од Вучића, а овом \"веселом досетком\" тешите себе?   USERNAME ',positive
+'USERNAME  нема везе, битно Цеца или Севе да ечат у позадина. ',positive
+'USERNAME  Охо, не умри коњу до зелена трева, така велат стари ',positive
+'USERNAME  а сконтај да постоји овај виц са хусом и хасом већ годинама. само да знамо правити постере, били бисмо признати трендсетери ',positive
+'USERNAME  најверојатно ',positive
+'USERNAME  но не и во Југославија , TLN Strajk Vlade URL',positive
+'USERNAME  USERNAME  USERNAME \nПлах си, частан, Србин си православни, чове, како рекох\nС временом ће се покажеш у пунини ',positive
+'USERNAME  Ањњњњњ ',positive
+'USERNAME  што њихове(наше) изјаве не чини нетачним  само је упитно да ли знају да не знају (ових 90\% ',positive
+'USERNAME  немој да уносиш подјеле међу твитераше  USERNAME  има валидну диплому',positive
+'Написао сам \"haha \" на интернету иако мрзим да пишем било шта сем \"пхах\" када је смешно. Дођавола са свиђањем!',positive
+'USERNAME  најзначајната причина заради која ти и јас не сме во политика  (ја би го заплескала) USERNAME ',positive
+'USERNAME  Сотир Костов, колумнист во „Дневник“. Оптимист по природа, глуп по општество  Јово одличен. Рамадани исто.',positive
+'USERNAME  на прилепски нека е ',positive
+'USERNAME  Напомена: се чита на прилепски дијалект ',positive
+'USERNAME  не, никој познат ',positive
+'Полине Сандр ',positive
+'USERNAME  Ма нисам га ни пратила него га стално неко ретвитује ',positive
+'Да ли и USERNAME  послата смс порука гласи \"otisao na sisanje i satiranje u NS\"?   USERNAME  USERNAME  USERNAME  USERNAME ',positive
+'Аутотвитер са командне линије ',positive
+'USERNAME  Па то је ваљда добро? ',positive
+'Шетња.  URL',positive
+'Чича, љуљају ови по Хелму. Да им помогнемо па да то заљуљамо како треба? Шта мсилиш? Да љуљнемо један добар трескавац? ',positive
+'USERNAME  USERNAME  USERNAME \nТеби хвала\nПријатељски\nЈбг. Православац си крштени у Христу Богу\nЈедном православан увек човек ',positive
+'USERNAME  твитај се само политика не ',positive
+'USERNAME  смеежење ',positive
+'USERNAME  USERNAME  USERNAME  Толстојевског ',positive
+'USERNAME  ...потпуно те разумем, мислим фрустрацију...свакодневно то кажем за женку од 6 месеци, која само мисли да је сви воле...',positive
+'Прави се паметна, a од оловака користи само ону за обрве! \nБедак. ',positive
+'Прави се паметна, a од оловака користи само ону за обрве! емотикон grin\nБедак. ',positive
+'USERNAME  Тешке. ',positive
+'Свиђа ми се видео URL Kratki live  корисника USERNAME ',positive
+'USERNAME  сад сам га збунијо кујшијо ',positive
+'USERNAME  бели лук, ракијица и воњ - жене би се отимале за такве само немају среће да их покупе колима ',positive
+'USERNAME  кој кај сака нека оди бе ',positive
+'USERNAME  аре лека тогава ',positive
+'USERNAME  тај је радио и није чудо што се ознојио у пекари. Моји нападају ујутру и излазе из куће ',positive
+'USERNAME  USERNAME  USERNAME \nРазумем словенски боље него преводилац ради, али нећу то\nЈедном ће већ неко превести на србски ',positive
+'Има кошаркашица које могу да закуцају, али само USERNAME  зна да ОТКУЦА. ',positive
+'USERNAME  ја покушах у бг, сад смирено чекам овдје ',positive
+'Ћути , замисли USERNAME  кад дођу до семењења, на њихову област?  Каже комшија \"осеменили су нас за 12 година\"  USERNAME ',positive
+'USERNAME  кажи а? Крс ',positive
+'USERNAME  хвала, али знаш да не могу поклоне да прихватим  макар онај хенеси да платим!',positive
+'мајице са овим натписом да радим... под условом да средим ауторска права са USERNAME    URL',positive
+'USERNAME  овој USERNAME  е крив за се!  #СрцеЧоек',positive
+'Се јави Влатко Дискреција - експерт  URL',positive
+'USERNAME  овој надвор не се дефинираше ',positive
+'USERNAME  USERNAME  Цк. Набљудувачка мисија ',positive
+'\"Један Пирке је морао бити убивен, ако се само десет људи рани\" Киле робија бизгов. ',positive
+'USERNAME  USERNAME   Такође(р). ',positive
+'USERNAME  покриј ги пак ',positive
+'USERNAME  само сељанки сликаат нозе у када ',positive
+'USERNAME  USERNAME  Наравно да нису. Веруј да је то тема која  још није стварно \"обрађена\", али 140 карактера је ипак премало. ',positive
+'Свиђа ми се видео URL Kratki live  корисника USERNAME ',positive
+'USERNAME  то, а и рекао сам \"који мозак мораш да имаш или немаш\"  У сваком случају, жасу.',positive
+'USERNAME  ама признај забавно е ',positive
+'USERNAME Маридзана доћићеш макар још једном ',positive
+'USERNAME  хвала бате,ценићу ово ',positive
+'USERNAME  Др. Неша ће то да реши : ))))',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Победа је кад ретард бота типа USERNAME  натераш да те блокира ',positive
+'USERNAME  заврши ',positive
+'USERNAME   А шта би друго радио Вучићев кабинет,него да демантује све што му не одговара,кад год може. Има и кад не може. Не да Запад.',positive
+'USERNAME  стави слика ',positive
+'USERNAME  нисам паметан који је циљ али није поштено сигурно ',positive
+'USERNAME  Слободно примени си ја... Не се лутам ',positive
+'USERNAME  шојма ново во 2011та? ',positive
+'Смајли без носа > смајли са носем\n\n > ',positive
+'USERNAME  најубаво! ',positive
+'USERNAME  убудуће наручи пуњач заједно са малином ',positive
+'USERNAME  па ово је увреда за полу-свет ',positive
+'USERNAME  на Орце Николов 50м после бензинската, а зошто не Менада на пример?.. Бруклински е во малце мејнстрим околина ',positive
+'USERNAME  Данас све инстант и лако доступно. Ја поручивао из иностранства...па то чекање поштара, па та радост ',positive
+'URL\nубајни ',positive
+'USERNAME  зависи од кој аспект го гледаш ',positive
+'USERNAME  чути барем знај да чита ',positive
+'USERNAME  одличен пијалок ',positive
+'USERNAME  ама после ракија  салатката од тебе USERNAME ',positive
+'USERNAME  20ти Мај ',positive
+'Свиђа ми се видео URL Ultra SkyWars #1 Ovaj moj igrac je lud  корисника USERNAME ',positive
+'USERNAME  Леле ова ми текна прво кога пуштив ТВ. Цар! Нема појак опис. ',positive
+'И ја сам против тог вербалног насиља. Заиста, логично. Дајте да постигнемо неки договор о осуди према вређању са свих страна?  USERNAME ',positive
+'USERNAME  извини ама ме нападна пајак ',positive
+'USERNAME  да ти буљи у компјутер ',positive
+'USERNAME  Се договараме на пијачка во четврток. Уште да најдеме место. Пијачка бесплатна, тоа ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'USERNAME  ај не ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'USERNAME  неког ћелавог,набилданог са BMW-om ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'...значи ништа од намештења?...е јеби га, докторе, а баш сте се трудили...... URL',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'После ужина ',positive
+'Чекај USERNAME  што да пустим човека  USERNAME  да се залуђује, па после да се избедачи кад буду неки већи избори? ',positive
+'А дс не побеђује тамо где год се кандидује снс.  Једина шанса да негде победите је да се снс не кандидује.   USERNAME ',positive
+'USERNAME  у, па то мора да уђе у употребу ',positive
+'Бог маркетинга  URL #приколы',positive
+'USERNAME  прочитав и јас ',positive
+'USERNAME  нервозна бегам подалеку јер не сакам последици ',positive
+'USERNAME  Ама пијачка за кохезија. Табела утре  USERNAME ',positive
+'USERNAME  зборлеста сум само кога сум нервозна, и пијана ',positive
+'USERNAME  \"                                      \" овој цитат? ',positive
+'USERNAME  Омић, 217цм, 111кг, 22 године, замена за Бобија? ',positive
+'USERNAME  ја два пара ',positive
+'USERNAME  из сакур ?',positive
+'USERNAME  код мене се \'напатиле\' претерано лепе жене и није ми пријатно због тога, слабо срце ',positive
+'За ова копиљациве пред зграда лек само Гру од ДиспикаблМи ',positive
+'Бог маркетинга ',positive
+'USERNAME  чекам слики птичја перспектива од митингот ',positive
+'USERNAME  да, малина  Имам и RadcaRockPro који је иначе доста јачи, али тежи за конфиг. Кинеска документација ',positive
+'романтика на физике  URL',positive
+'Свиђа ми се видео URL Kimi Dayz [ Day #3 ] - SPECIAL ZA 1.000 SUCRIBERA ! корисника',positive
+'Доле влада! #НеМеОдследувајте ',positive
+'Бог маркетинга  URL #СамыйСок',positive
+'Бог маркетинга ',positive
+'Бог маркетинга ',positive
+'Бог маркетинга ',positive
+'Бог маркетинга ',positive
+'USERNAME  аии, под појас, под појас! ',positive
+'Бог маркетинга  - \n Источник: Бог маркетинга \n, URL URL',positive
+'USERNAME \nАј молим те смањи доживљај\nТо је већ лавина твојих пројекција\nПоштујем да си глув за Истину\nИмаш право\nАли мене поштеди ',positive
+'USERNAME  Toa се подразбира ',positive
+'USERNAME  па има онака ',positive
+'USERNAME  Апсолутли јес! НО ЛИМИТС! На 193/100 може се да се качи  USERNAME  USERNAME ',positive
+'Бог маркетинга  URL #приколы',positive
+'USERNAME  USERNAME  изгледа да је некоме привилегија. ',positive
+'USERNAME  Твој профил бара Паца, а?! ',positive
+'Бог маркетинга  #приколы #интересное #postlivenet #изинтернета #посты URL',positive
+'USERNAME  они у чашици - мени не! За остале ћемо провјерити наредних дана ',positive
+'USERNAME  за Краља и отаџбину  \nХвала Милице на листи',positive
+'USERNAME  Две смајли ',positive
+'USERNAME  Мирко краљу! Браво! ',positive
+'Спрема се стајлинг за сутра  #birthday #time URL',positive
+'Бог маркетинга  URL',positive
+'USERNAME  ништа бре Маки данас ',positive
+'Велика је Бикова љубав према циганима.  URL',positive
+'USERNAME  Ептен јако гушни ја, за инат ',positive
+'USERNAME  остај нема потреба ',positive
+'USERNAME  Већ помислих да ћеш опсовати. ',positive
+'USERNAME  јел то наши или њини? ',positive
+'Бог маркетинга  URL',positive
+'USERNAME  Бадан. ',positive
+'На метлу!  URL',positive
+'USERNAME  Да, Марија Џонс.  Фала!',positive
+'USERNAME  Србине, јел се ти такмичиш под српском или под црвено белом заставом са том орлушином? ',positive
+'USERNAME  ахзхрз гспд ',positive
+'USERNAME  убајни ',positive
+'USERNAME  USERNAME   ретардињо.',positive
+'I udade se  Јордан Николић - Удаде се Јагодо URL via USERNAME ',positive
+'USERNAME  Прокурорских ',positive
+'USERNAME  ма, ја видео оне избациле, али верујем ',positive
+'USERNAME  Ма кад год, битна је суштина. ',positive
+'USERNAME  USERNAME  USERNAME  Нема на чему омиљени моји ',positive
+'7 кила скара у 7 дена.\nЗдебелување 0 кила.\nШто метаболизам?\nДа чујам?\nА?\n ',positive
+'И о Морсију су утањили \n URL',positive
+'USERNAME \nИ о Морсију су утањили ',positive
+'USERNAME  сконтао ',positive
+'USERNAME  СЕКОЈ коментар е сувишен, не? ',positive
+'USERNAME  грасијас ',positive
+'USERNAME  заметано ',positive
+'Политико скрос одлепил. Како Реми Гаљард станал ',positive
+'Него на ЈуТу гитаристон утепуење од сцена ',positive
+'USERNAME  мноогу веројатно ',positive
+'Радуга ',positive
+'USERNAME  USERNAME  Има ли у ДС иједно питање око ког сте јединствени? #SamoPitam  USERNAME ',positive
+'USERNAME  \nБоље Сељак него Педер. ',positive
+'Ваистину!  URL',positive
+'USERNAME  ањњњ стапалца ',positive
+'USERNAME  омилената бројка ',positive
+'USERNAME  Узинце. Лекичко така ',positive
+'USERNAME  физра ',positive
+'USERNAME  обратно, јас ја стаив на блок...нека одмара малце ',positive
+'USERNAME  Нема на чему! Омиљено је омиљено ',positive
+'USERNAME  епа испадна сонцево на тројка ии.......',positive
+'сред карање удри и еден бакнеж онака филмски и збуни ја.. ',positive
+'USERNAME  Па ја Јанковић данас је фокус на њему и како је улетео у репку ',positive
+'USERNAME  ањњњњ изненадуваш ',positive
+'Ускоро у Крагујевцу\nTHE ARTIST - РУСИЈА\nУскоро и детаљније о поводу...  URL',positive
+'Јел то нешто на мој рачун?  Ја нисам ожењен  URL',positive
+'Ускоро у Крагујевцу\nThe Artist \" Official \" - РУСИЈА\nУскоро и детаљније о поводу... \nAleksandar Djapic-Braca,... URL',positive
+'USERNAME  ја сам мало паметнији ',positive
+'USERNAME  црномурест ',positive
+'USERNAME  USERNAME  успео си! ',positive
+'USERNAME  Па како да знам која је опрема сертификована? ',positive
+'USERNAME  касније сам догурао до плате, али конташ поенту. ',positive
+'USERNAME  најубав одговор ',positive
+'USERNAME  па кад нема никог са тврдим к.... па да ови са запада осете мало тврдо ',positive
+'USERNAME  Ова е тој ',positive
+'USERNAME  - Шведска!  Ил Холандија. Може и Данска.',positive
+'Македонији. Бугари, Грци, Шиптари, ЕУ, САД, Русија. Него Чича хоће ли те пичке београдске проговорити коју или ће да буде шамарања? ',positive
+'USERNAME  хера ',positive
+'USERNAME  уживај не те памтиме, склеротични сме ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Можда је само глупа?  Или да користимо њен речник увреда ... ретард?',positive
+'USERNAME  прати ми ја да ја свртиме на Антена ',positive
+'USERNAME  Тамо разбија ДСС  Шулкић...',positive
+'USERNAME  Оба \"саборца\" из 1990их и 2000их да оду више из политичког живота  Као тражи смену а овамо ортак са Вучићем. Слепац :-/',positive
+'USERNAME  Nемај гајле. Nишто страшно. ',positive
+'И Тадићу и Вучићу се ЕУ диви и само што нас нису примили? Преговори крећу, примају нас пре рока!? Аха, верујемо, наивни смо  #бајке',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Помажемо несрећном боту да заради хлеб ',positive
+'Галерија ППНС – победничка галерија \nКРАГУЈ-ВОЛЕЈФОРМ - ОСВАЈАЧ ЂУРЂЕВДАНСКОГ ТУРНИРА КАДЕТКИЊА\nMEDJUOKRUZNI... URL',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Познати српски фашиста Предраг Ј. Марковић ',positive
+'Ај денес да прајме контра протест на контра протестот  Контра-контра протест! #протестирам',positive
+'USERNAME  само теорија ',positive
+'USERNAME  USERNAME  Предраг Ј. Марковић, познати српски фашиста ',positive
+'USERNAME  дај пола кило од истата ',positive
+'USERNAME  најако! Нема боље! ',positive
+'USERNAME  отвори се јане ',positive
+'USERNAME  Па добро ако је мали. Направићемо га да буде много већи! ',positive
+'USERNAME  USERNAME  USERNAME  Муке савремених пагана!  Је л\' неко од вас био, можда, атеиста (ако није сувише лично)?',positive
+'USERNAME  На која? ',positive
+'За децу маја , рођену између 16. и 31.\nППНС/РОКЕНРОЛЕР/Р\'Н\'Р КАЛЕНДАР\n\"Упоредите\" датуме, сазнајте ко је из... URL',positive
+'USERNAME  USERNAME  Није, али где њега погоди, а не Ћаћа или Љуља, није ми јасно. ',positive
+'USERNAME  USERNAME  Воли човек, тешко му је пало, радили су и горе ствари.  А и кад си са Рудолфом 40 минута, повуче те, реално. ',positive
+'USERNAME  ...има доста ,,екса,, у имену...а вероватно је било и овако......',positive
+'USERNAME  тенкјуу  USERNAME ',positive
+'ути пути  URL',positive
+'USERNAME  бос по камења плажа е ',positive
+'Опасно готвачиште е овој USERNAME   URL',positive
+'USERNAME  А имаш и сумњиво презиме  USERNAME  Чувај се ти су најгори, за час хришћански добијеш по пркну ',positive
+'USERNAME  неки оће водичица, водкиња или тако нешто ',positive
+'USERNAME  од места ',positive
+'USERNAME  аа у моја влада така не! ',positive
+'#onokad цуре уче да програмирају  \n\nRails Girls Beograd #4: URL URL',positive
+'леп дан за ставити се у блендер ',positive
+'USERNAME  Далеку е 8.... Почекај ',positive
+'USERNAME  Какве су ово легенде  USERNAME ',positive
+'Јаоо какви цареви  URL',positive
+'USERNAME  клета судбина македоснка ',positive
+'Потсетување \n\nСкопски каскадер, опуштено и прецизно  (ВИДЕО) URL',positive
+'USERNAME  Хмм.. размотрићемо шта у том случају ',positive
+'Истини  URL',positive
+'USERNAME  USERNAME  он жив и легитимен ',positive
+'USERNAME  прочитај књиге ',positive
+'Напокон је почело емитовање серије \"Када падне први снег\"  на тв-у...\nНо дигитализејшн,но брејн вошинг! ',positive
+'USERNAME  кој е ова? ',positive
+'USERNAME  толико чекам петак,онда трепнем трипут и понедељак ',positive
+'Ево, нисам глед\'о ове Парове једно седамдесет дана и видим све неке нове фаце.Никог не познајем.',positive
+'али је додао да је речено да треба спровести још неке делове Бриселског споразума ',positive
+'\"Представили смо резултате економских реформи и нисмо данас чули ниједну критичку реч у вези с њима\", рекао је Вучић ',positive
+'USERNAME  Ама онака со се лазење, со све. ',positive
+'USERNAME  туше мисје пусукет!  USERNAME  USERNAME ',positive
+'USERNAME  оп,Тетово,Гостивар,Зајас,Охрид и туега сме ',positive
+'USERNAME  сумњив маркет  USERNAME ',positive
+'USERNAME  ова се вика, Он је ишо зглавом,где је нико ни је смио сногом ',positive
+'USERNAME  девојка ',positive
+'USERNAME  USERNAME  го изела и штекерот ',positive
+'USERNAME  Итар сум јас ',positive
+'Додао/ла сам видео URL  gta vice city 2010 ep 19 pucamo iz helihoptera  на плејлисту',positive
+'USERNAME  о да! И за денес најавија контра протест и овде ',positive
+'USERNAME   ограничувач на публика',positive
+'USERNAME  ова ЛГБТ а у нешто ',positive
+'Па прочистили су се ови који су их напустили.  Ови што су попили Вучићев серум и постали бољи људи.  USERNAME  USERNAME ',positive
+'Ендемичен вид протестанти, протестират против опозицијата. Македонија тајмлес ',positive
+'Да, бре, Блејд, дневни шетач, да сређује посла преко дана, јер ови не излазе из сенке, мада су заратили.  USERNAME  USERNAME ',positive
+'Крепим #фото на стену  #тюмень  URL',positive
+'USERNAME  Седи бе мала, не се занашај  USERNAME ',positive
+'Да нису они вампири?  Сенка, пили крв народу, митингују код Крстова, посланици и у деветој деценији, витални?  USERNAME  USERNAME ',positive
+'Хоћеш рећи USERNAME  да  USERNAME  воле на задњи улаз? ',positive
+'USERNAME  Некој порано, некој подоцна ',positive
+'Смета им светлост и чуди ме како ће у КГ-У по дану и поред Крста?  Све ће извештавати \"дневни шетач Блиц\" вус-а  USERNAME  USERNAME ',positive
+'Ово USERNAME  прослављају победу над снс у В. Плани где није снс учествовао,Балша чита резултат из Панчева,разлаз? URL',positive
+'USERNAME  чуваћемо вас поједине, не брини ',positive
+'USERNAME  малтене да ',positive
+'Бед Бојз набина  URL',positive
+'Зато по алгебре 2 или 3 ',positive
+'Пазите да се не осветлите превише поред Крста, а и дан је, то је превише сунца за вас из сенке, а и Крст поред вас, не знам.  USERNAME ',positive
+'USERNAME  арилга ..',positive
+'USERNAME  ти тргнав више на страна... ',positive
+'USERNAME  Хангр гејмс ',positive
+'Сад ће ти ово броје као прву службену доставу \n#СНСОлош URL',positive
+'USERNAME  ижарага олинганман ',positive
+'USERNAME  нисам ни очекивао... било би превише досадно да се овдје заврши ',positive
+'На Иво би му дошло добро да зачукале некој новинар.... дали мисли на USERNAME  кога вика Ало Горде... ',positive
+'Број пријављених такмичара за \"ЦЕЕ пролеће\" све је већи! \nЈош није касно да се придружите!... URL',positive
+'слава Богу! ',positive
+'USERNAME  погоди и освој награда за која партија станува збор ',positive
+'USERNAME  USERNAME  јакоо ',positive
+'USERNAME  шта је сад било? ',positive
+'Буржоазија у сенка. ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  18-ти август. Во најжешкото \nНа маки биле ',positive
+'USERNAME  морам да признам, дело руку мога драгог,и цвеће га оће ',positive
+'USERNAME  Сполајти ',positive
+'Можда од мене и постане домаћица   URL',positive
+'ИМА САМО 21 ГОДИНА...  URL',positive
+'Фала тропски горештини USERNAME   USERNAME ',positive
+'пахана ДНР снова \"бомбануло\"   URL',positive
+'USERNAME  Крејзи србсс ',positive
+'Увреди се човек јуче што ја, по струци васпитач, исправљам њега школованог у ИТ-у. ',positive
+'USERNAME  на Кипре ',positive
+'USERNAME  дома кај мене ',positive
+'USERNAME  браво за тебе, треба помоћи почетнику',positive
+'USERNAME  добро је дечко ',positive
+'Само омладинце регрутују  URL',positive
+'USERNAME  змај жена ',positive
+'Иуу  URL',positive
+'Врхунски.  URL',positive
+'USERNAME  Лазе не вриј ',positive
+'USERNAME  од секад бе ',positive
+'ponosna na moje studente  Најбољи одговор на тужбу на свету | Дневник URL',positive
+'USERNAME  ћаос Ољице ',positive
+'Нова марама само за Belle amie..\nШарм две зверчице је гратис..  URL',positive
+'USERNAME  уште од сабајле ли бе ',positive
+'USERNAME  USERNAME  не знам ама прејако е ',positive
+'USERNAME  Дођеш кући, отац те одвали од батина а ти онако гарав по лицу се питаш...јбт, како је знао, ко му је рекао да смо се пењали? ',positive
+'USERNAME  процедурално - после зборот \"прекрасно\" не може да оди \"анти-смајли\" ',positive
+'Ни мање ни више него краљевина. Збогом памети  URL',positive
+'USERNAME  двојна смисла ',positive
+'USERNAME , ахир бу ишларнинг бошида Хушнуд турибди ',positive
+'USERNAME  у стил на Бијонса: Flawless. ',positive
+'хитов нема крај!  URL',positive
+'Дођем у Шведску радњу и прстом покажем хамбургер и тихо кажем \"ово\". А продавачица каже \"узми овај!\". Азра из Бањалуке! ',positive
+'\"велики антивладан митинг\" - как звучи само ',positive
+'USERNAME  Ака харакат килсангиз топасиз, ишонаман.',positive
+'USERNAME  бамбоне ',positive
+'Шта је једна ствар коју сви траже? — Sreca!  URL',positive
+'USERNAME  беги \"лола\", беги !!!...',positive
+'Мушкарац који воли своју жену подноси промене у понашању са стилом ',positive
+'Новости из Ростова-на-Дону ...  URL',positive
+'USERNAME  благодарам Марија. ',positive
+'-2 последних урока ',positive
+'USERNAME  USERNAME  Тапа кампања ',positive
+'USERNAME  вери тру, ама ова е... Маркетиншки мастерпис ',positive
+'USERNAME  USERNAME  у том случају хвалаа ',positive
+'Кафезите се наместени на јавна површина или на парцела од Маноли и Орце??? ',positive
+'USERNAME  Шерни ја ',positive
+'USERNAME  USERNAME   мислим да ружа ставља алкохол у пиво, па то резултује искривљеним памћењем :РР',positive
+'USERNAME  и мени је запарало око  хоћу, свакако... још ми је теже што се то одмах повезује са текстом, иако нисам користио ту ријеч ',positive
+'USERNAME  Нема. Ти написао све уредно, на чистом српском.  СугериРАЈ им да не праве овакве кардиналне грешје. ',positive
+'USERNAME  то ми је сљедећи задатак, да набавим готивну слику себе :Р што је јако тешко, зато толико и траје... ',positive
+'USERNAME  пише ли то у тексту?  зза ту истакнуту реченицу не одговарам ја, није цитат ',positive
+'Сутра држимо палчеве за Бојану! Моја подршка Бојани...  URL #eurovision #serbia #bojana #stamenov',positive
+'Какви кафези бре монтирале у центар??? Дајте плис нека слика некој ',positive
+'USERNAME  топено чоколадо боље   USERNAME ',positive
+'USERNAME  додај \"гладен\" ',positive
+'USERNAME  повели  ',positive
+'USERNAME  Сирови Балканац ',positive
+'USERNAME  супервујко ',positive
+'USERNAME  заметано ',positive
+'Од куће понела доручак - качамак. Који сам ја мени краљ! ',positive
+'USERNAME  најфала!! ',positive
+'USERNAME  фала тетке! ',positive
+'USERNAME  USERNAME  исток је за брђане ',positive
+'Не знам да ли је крштеница у питању или темперамент.. али мом крвотоку увек, али увек прија Бијело Дугме. ',positive
+'Силујем по профилима. \nДобро јутро и вама ',positive
+'USERNAME  апој ',positive
+'Дел од ДУИ  #ЗбогумНикола\nURL',positive
+'USERNAME  Угарна написал  \n\"Dievs stāv\" \nMožet - \"Stāv klāt?\" ',positive
+'USERNAME  ша је било? ',positive
+'Дугоналар бормисиз? Омонмисиз? ',positive
+'USERNAME  посилно е од мене ',positive
+'Moj svet, moja pravila   — осећам се спремно у Novi Sad URL',positive
+'USERNAME  па је л\' логично долазити раније на државни пос\'о?  ал\' има нас свакаквих ',positive
+'USERNAME  \n|\n|\nкрипи',positive
+'USERNAME  их, као да је то проблем ',positive
+'травелинг травелинг рано на сабајле  ',positive
+'USERNAME  најјак! ',positive
+'USERNAME  пази талог да не има и инфузијата ',positive
+'Два питања која прво падну на памет нашем човеку \"колико ли троши\" и \"колика је регистрација\".   USERNAME ',positive
+'Босиком  URL',positive
+'Полине Сандр ',positive
+'USERNAME   ма наравно да није, ал ме занима ',positive
+'Полумна  URL',positive
+'USERNAME  иначе гледе Лаврентија, из поповских кругова, ако је информација тачна (ограђујем се), обавештен сам да ће ускоро у пеМзију ',positive
+'Али мој предлог USERNAME  је да USERNAME  добије оно што добијају они који су у праву.  Знаш шта добија ко је у праву? ',positive
+'Какав си ти тешки перверзњак.  Девојка мисли на страх од саобраћајне полиције и новчаних казни за појас.   USERNAME  USERNAME ',positive
+'USERNAME  Лајна Грејс*  #иЈаХејтам',positive
+'USERNAME  Птичја перспектива слика се бара. Иначе ова е само еден дел. И непрегледно сликано е..  USERNAME  USERNAME ',positive
+'USERNAME  Еве нај грубо пресметано 24.1к *2 = 48 000 народ.  USERNAME  USERNAME ',positive
+'USERNAME  еве ти, па сметај  USERNAME  USERNAME  URL',positive
+'USERNAME  Само без брзање ',positive
+'USERNAME  Не брзај, набрзина ',positive
+'USERNAME  така де, тоа најважно ',positive
+'USERNAME  USERNAME  USERNAME  Хајде, хајде . Били сте баш јунаци, додуше над цивилима, али и то је нешто.',positive
+'USERNAME  USERNAME  USERNAME  Земљак Србин?  Војна логика је да су моји хтели да заузму Сарајево то би и урадили. Немате појма',positive
+'USERNAME  USERNAME  USERNAME  Која ваша земља? Мислиш српска? Погледај да ти деда није Србин можда? ',positive
+'Ла-ла-ла-ла-ла-ла-ла-ла-лаа, оо, Динамоо!  #fcdk  #Динамо #Київ #чемпіон #чемпіони #Dynamo #Kiev #champions… URL',positive
+'USERNAME  Ја ћу, вероватно, и даље бити коњ. ',positive
+'USERNAME  аџанак баџанак! ',positive
+'USERNAME  Уким, правен? Ја на правни студии, делумно колеги ',positive
+'USERNAME  USERNAME  како ја после да зарадим дневницу   видиш да се намећем као просперитетни бот, мало ли је сендвич и сок',positive
+'Ма једу много фриком сладоледа и онда им се све фантазије остварују или бар тако верују.  USERNAME  USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  USERNAME  Ако треба уште нешто, пишуј ',positive
+'Ла-ла-ла-ла-ла-ла-ла-ла-лаа, оо, Динамоо!  #fcdk  #Динамо #Київ #чемпіон #чемпіони #Dynamo… URL',positive
+'USERNAME  има страна рејнимуд ',positive
+'Получили море позитива   URL',positive
+'USERNAME  ее, супер ја нашо URL   под тим тагом, навијај ми за сутјеску ако је она из никшића',positive
+'USERNAME  скроз процедурално контра-урочување мораше да следува. ',positive
+'Још сутра сам у двадесетим, а од уторка ТРИДЕСЕТ  Ајоој *_*',positive
+'USERNAME  Кој ти згреши? ',positive
+'USERNAME  USERNAME  очигледно мисандерстендинг! Ај сеа да се гушнеме и \"Мир, мир, мир, нико није крив!\"   USERNAME  USERNAME ',positive
+'USERNAME  не ме мачи, убиј ме одма ',positive
+'USERNAME  ...немој Зоки да читаш више та срања, само ти дижу притисак безвезе...а ионако све измишљају...',positive
+'USERNAME   секоја чест   USERNAME ',positive
+'USERNAME  остај, иста болест ја имам ',positive
+'USERNAME  USERNAME  USERNAME  јеси бре, ево USERNAME  нек потврди (и њега си) ',positive
+'USERNAME  ти си посебна врста циганског олоша  USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  Боже са којим ја људима улазим у причу. Ај живи били ',positive
+'USERNAME  ауу, љуто!  USERNAME ',positive
+'USERNAME  Да, онда је дошао СНС на власт па ти се не свиђа да неко вређа ',positive
+'И мени се свиђао тај Кесићев хумор кад сам био твојих година, ништа страшно  USERNAME ',positive
+'USERNAME  USERNAME  USERNAME  пензионерите ни се напатени души на бањиве, ејјјјјј ',positive
+'USERNAME  USERNAME  по содржина Пиреј по наслов Самоуништување ',positive
+'USERNAME  као црвеноперка коа ја вадиш од јадица. риболоец сум да ',positive
+'USERNAME  USERNAME  ...драга господо, то ви госн. Мароевићу објасните...то о вишеструкој корисности конопље и каснијој прохибицији......',positive
+'USERNAME  Јас само Добрејци го знам ',positive
+'USERNAME  То ћу наравно пожелети и себи сутра у ово време  Уживаај у твом дану ! ',positive
+'USERNAME  направи ја ',positive
+'USERNAME  Не знам ко беше, пред крај нешто, било је већ 15-ак.  Могуће да је Калина. ',positive
+'USERNAME  ...претпоставио сам......четник-гурка....',positive
+'USERNAME  Красиваа, срећан рођус  Некако те видим у венчаници и старкама, у овој години, а ти како \'оћеш ',positive
+'USERNAME  али не знаш где ми је штек , али поделила бих ја са тобом ',positive
+'USERNAME  ...Мароевићу, не повлачи никакве паралеле ту, јер их нема...',positive
+'USERNAME  океј, не ми риплајувај ондак ',positive
+'USERNAME  За да се расипе пријателство потребни се двајца. СИ бирала, си одбрала свој став.  USERNAME  USERNAME  USERNAME ',positive
+'Petit tchétchène😂 #Chechen        Х1унд аьлча, нохчийн к1ант  URL',positive
+'Радоњић у фазону: \"Докле више, Партизане?\"  URL',positive
+'Isprobavamo naocare  — осећам се дивно',positive
+'USERNAME  На тема криминал и судски заврски ',positive
+'USERNAME   То је оно када ме познајеш',positive
+'USERNAME   Из сваког кадра.',positive
+'USERNAME  ма баш те брига,само добро друштво  \nза лепо расположење се побринула Звезда ',positive
+'USERNAME    да да.. цеоо дан у бусу,до поноћи',positive
+'USERNAME   Пишите ми као да сам ту Обрадоваћу се када будем видела',positive
+'USERNAME  таман да у поноћ стигнете у ИТА ',positive
+'USERNAME   Хвала ... сутра крећем у 11h ',positive
+'USERNAME  кастинг Вудмана ',positive
+'USERNAME  срећан пут и леп провод ',positive
+'USERNAME  околу 120.000 беа ',positive
+'USERNAME  то је можда и упитно, али да је пуцао у неколико лица, онда би било извјесно да је пијан! ',positive
+'USERNAME  USERNAME  Гусев, Карл ',positive
+'Које су боје ципеле које носиш данас? — Cvetno bele  ♥ URL',positive
+'USERNAME  Шатора ће вероватно бити, а за врећу се снађи, све пише тамо   USERNAME ',positive
+'Бомба ',positive
+'USERNAME  Пријавите то тамо на ФБ дешавању и пошаљите званичну пријаву на сајту  USERNAME ',positive
+'USERNAME  пао сам и ја само Валенсију ',positive
+'USERNAME  кленови бре ',positive
+'Видим да тамо већ пишу којекакве глупости.  Као \"замерио се Вучићу\" , тај рад, хахаха  USERNAME ',positive
+'USERNAME  Ознојићеш се 10х и 15х умити у реци  USERNAME ',positive
+'Генијално!  URL',positive
+'USERNAME  Ја сам и даље у шоку. ',positive
+'Сада ће да испадне да је #vucic наредио боксерима да боксују свих 12 рунди како би #24minuta и Кесић каснили.  Бокс је за првака Европе.',positive
+'USERNAME  Петак, субота и у недељу повратак   USERNAME ',positive
+'Ализар он и на автокадабре Ализар ',positive
+'USERNAME  Јел да сликам подлив?! ',positive
+'Препородили смо Препорођене \n\nВидите да и они сада имају ћирилични назив и наслов својих филмова...\nУскоро свих... URL',positive
+'USERNAME  Хоће бити клипова са меча? \nсјајно је било.',positive
+'12 месеци у годината иам на располагање трособен стан на Малта и неам девојка. ',positive
+'USERNAME  лаку ноћ ',positive
+'USERNAME  Имамо једну што је први пут понела фен  USERNAME ',positive
+'Браво момции!!! ЈЕДИНИ НЕПОРАЖЕНИ КЛУБ, ПОКАЗАЛИ СТЕ ЈОШ ЈЕДНОМ КОЛИКО СТЕ НАЈБОЉИ! Предивна кошарка вечерас! ... URL',positive
+'USERNAME  Калина кад кара гробаре он и уши заврће ',positive
+'Први, и радови фанова \n\nППНС/Сликом/Позитива\nЉУБИМАЦ URL',positive
+'Први, и радови фанова \n\nППНС/Сликом/Позитива\nЉУБИМАЦ URL',positive
+'USERNAME  он да не е попијан ?',positive
+'Многу би било јако да се презиваш Канац и доктор да станеш, а да не збориме Асистент Доктор или Професор ',positive
+'ГУВЕРНЕР ВИЦЕ отвора подружници  URL',positive
+'USERNAME  6 тага жавоб берибман ',positive
+'USERNAME  ути пути ',positive
+'USERNAME  ситно.. то је код нас средња жалост  преко 45 година је наш рекорд. мислим да нико од првобитних странака није жив.',positive
+'USERNAME  Нека се други радују. Не отидов за да позирам и да се забављам  USERNAME ',positive
+'USERNAME  крвнички ',positive
+'Знам да је нереално,али САД ИХ ЗГАЗИТЕ!!!!  ',positive
+'ЛУКА, МАЈСТОРЕ ПА ТИ СИ БОГ!!!\nКаква тројка! Браво Лука! ',positive
+'USERNAME  али јбт, како је само избацио лопту. Као она господа у карлингу, кад само пусте ону ,,пеглу\" ',positive
+'USERNAME  Провери да није камен у бубрегу, не бих се ја зезала ',positive
+'Malo uživanja  — осећам се пијано на Sedmo Nebo URL',positive
+'Никада не ваља бити на самом врху, јер сви путеви са врха воде ка дну. ',positive
+'USERNAME  Ништа ново,ништа чудно.И онда ће да кажу како су нас угазили ',positive
+'Два хавера љута  URL',positive
+'Шта ти је моћ навике, ако немају шта друго краду онда једни другима твитове  USERNAME ',positive
+'USERNAME  протест, котра протест (митинг) - титула, контра титула ',positive
+'Рехабилитација Драже, победа Новака, химна у којој се помиње краљ... Случајност? ',positive
+'USERNAME  па најбољи беа. треба медаља да ви доделиме ',positive
+'USERNAME само СПО зна за шта је био Дража?  USERNAME ',positive
+'Санта Барбара ',positive
+'Свиђа ми се видео URL PITANJA I ODGOVORI EP.2 [Srpski Gameplay]  корисника USERNAME  са',positive
+'USERNAME   не се секирај за мене ',positive
+'USERNAME ..изгледа да су ми \"мале сиве ћелије\" вечерас нешто блокирале па раде на \" буквално\"..   USERNAME ',positive
+'\"..није то наш Јожа\",само је \'србље\' смицало најрођеније за некога,за кога ни данас не знају tko je što je #болесно URL',positive
+'USERNAME  арно штом си се пронашол ',positive
+'USERNAME  превише партизанских филмова USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  ...у Баранди ће Бјела да им заврши, има тамо неке контакте...',positive
+'USERNAME  Фризер набацио одело... Колико кошта шишње? ',positive
+'USERNAME  се најде ',positive
+'USERNAME  ...нисам, и они иду у пакету...па морају и они од нечега да живе, побогу...',positive
+'USERNAME  Само да врате 10\% отетих од пензија, пала подршка ',positive
+'USERNAME  USERNAME  USERNAME  многу љубам, не знам поинаку ',positive
+'USERNAME  сполајти ',positive
+'походу Канада отомстила за брата по континенту ',positive
+'USERNAME  USERNAME  ....мислиш...,,будите људи иако сте Срби,,...јел то?......',positive
+'Цирбес да добије техничку што овако закуцава ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Ја сам у пролазу јер ЗЈРМ ',positive
+'Кад погледам иза себе, све је црно осим тебе. ',positive
+'USERNAME  Шампион! ',positive
+'USERNAME  USERNAME  бајо мој, немаш ти појма шта је све било у куманову... треба да ти причам 2 дана ',positive
+'Говорило се дуго да Звезда не може ништа и никоме без Бобија и Вилија у петорци. Ево нема их већ 8 минута, и? ',positive
+'USERNAME  Појако пиче и нема од неа ',positive
+'Постоје цигани (фкцзв)\nЦигани(ккцзв)\nИ\nЦигани(ккфмп)\n\nИ никад не знам који је тим против којег играмо...\n(Кад је кошарка у питању)\n\n',positive
+'USERNAME  Дерби ништа?\nСа тобом више о спорту не причам ',positive
+'Свиђа ми се видео URL Pitanja i odgovori  ! ! ! корисника USERNAME  са',positive
+'USERNAME  хахаха нисам у току...о каквом се (не)обраћању ради? ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  USERNAME  Мора и чврсто постоље ',positive
+'USERNAME  тешко за ком ',positive
+'USERNAME  Наравно. Ово сам на кратко успела да чујем док сам вечерала, а мама шалтала канале, иначе га избегавамо ',positive
+'USERNAME  USERNAME  USERNAME  не може горе од овога, Слоба је за њега 0 ',positive
+'USERNAME  Борбено грозде! ',positive
+'URL  Молим вас да раширите истину о Македонији, неки ваши медији су рекли да има 18к  USERNAME  USERNAME ',positive
+'Наставак....  ## URL',positive
+'USERNAME   Ја ja ja су суптилен!! ',positive
+'USERNAME  књиге, а не ТВ у руке, а претходно се наоружати класичним језицима+ неколико живих  USERNAME ',positive
+'Како се Масимо ложи, као да најављује Месију.  Готиван је, заиста, не кажем ништа лоше.',positive
+'USERNAME  нема гајле уживај ',positive
+'USERNAME  USERNAME  USERNAME  ...ти си АС Селџук, ти си дошао после....',positive
+'USERNAME  USERNAME  USERNAME  ...извините у том случају...мислим, ипак сам вам бануо на гајбу?  али шта очекивати од номада....',positive
+'USERNAME  Абе ај остај Вермален, Даглас има ист број на титули како и Роналдо ....ФАКИНГ ДАГЛАС ЕЈ!!!',positive
+'USERNAME  Ашколсун Биби, аферим ',positive
+'USERNAME   свашата, још од амеба.  USERNAME  USERNAME ',positive
+'Вила Горде (пред влада). Смештај бесплатен.  #протестирам #ЗбогумНикола URL',positive
+'USERNAME  USERNAME  ...а и тешко твитерашима да разапну неког...могао је да буде исхејтован рецимо само зато што се зове Јово....',positive
+'USERNAME  важи...а ја бих волео да те чујем на USERNAME ,то слуша фин свет,можда би још фоловера набавио ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Капацитет из самице изађе на квадрат ',positive
+'USERNAME  хвала Богу и даље постоје папир и оловка где могу да се записују мисли ',positive
+'USERNAME  Условно успела ',positive
+'Шта ти фали USERNAME   USERNAME  USERNAME  USERNAME  Све саме себи довољне ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Како сте почеле, остаћу вам само ја ',positive
+'USERNAME   јутрос до пола 6, вечерас мало опуштенија,лаганија варијанта-а #Славија ујутро ми је била омиљена варијанта послије дернека',positive
+'USERNAME  то је ионако забрањено ',positive
+'USERNAME  марципан? ',positive
+'USERNAME  ће да морамо и са твитера да бежимо ми који смо побегли са фб ',positive
+'USERNAME  Штета је што Ви и даље мислите да престолонаследник не говори/не разуме Српски. ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Зависи од примања... За стражаре брља ',positive
+'#Barca слави титула во Мадрид ... овој ден just gets better and better  \n#ViscaBarca #CAMPIONES',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  Ко зна ко ће вам још у друштво упасти  Можда добијете неко острвце само за себе.',positive
+'USERNAME  Гратис чарапе уз Манго маргарин? ',positive
+'USERNAME  доле опозиција ',positive
+'Бомбануло! Ушел на орбиту  URL',positive
+'USERNAME  USERNAME  \n\nпа добро\nпредпостављени је, газда и власни оба ентитета је у Вошингтону\n',positive
+'USERNAME  USERNAME . благо Вама, ја не познајем газду Србије. Вила промаја ',positive
+'USERNAME  јас ама службено. Ако? ',positive
+'Финал стрима по Биошоку!  URL',positive
+'USERNAME  то је и основа мог чуђења. А и имена и презимена им не иду у прилог ',positive
+'Не Лолшто, а Алушта! ',positive
+'Мени се више усне свиђају и овај вратић.  USERNAME ',positive
+'USERNAME  да, а платио сам и порез и прирез и таксу и намет и допринос и ... ове и прошле и претпрошле... године ',positive
+'USERNAME  све док смо људенца не се рачуна, они ваљда затој га и делив број сас 2 ',positive
+'USERNAME  после ослобађања Скадра, српске престонице, ипак. ',positive
+'USERNAME  USERNAME  уаа...доле опoзиција ',positive
+'USERNAME  USERNAME  и да нису учествовали у клању Срба у Јасеновцу? ',positive
+'#Eurovision Лоик ',positive
+'Мали сарми= сармичиња. Послатко зборче амин ',positive
+'USERNAME  USERNAME  море и за женско треба речник ',positive
+'USERNAME  Како кој брат... Како кој  USERNAME   USERNAME ',positive
+'Свиђа ми се видео URL Intro Dzonner | V2 Rekt Cinema  корисника USERNAME ',positive
+'USERNAME  На пучини ',positive
+'USERNAME  уникален ',positive
+'Куртон револуционери  #протестирам #ГорењеШпорети #сдсм #ЗЗ URL',positive
+'USERNAME  птичја кај миленко само, ексклузива! ',positive
+'USERNAME  URL дер ју гоу ',positive
+'Јасика ',positive
+'USERNAME  ...па знам да је мало авангардно за српске стандарде, али човек се представио, па сам и ја....',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  ...то је баш лепо...ја сам милитантни еколог паганин...драго ми је што смо се упознали...',positive
+'\"ал\'зумбули су зумбули, а ружа је ружа\" лол ',positive
+'Како вам је ова жута боја избледела како сте побегли од демократа?  USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  \nзаметано брат ',positive
+'USERNAME  Фала многу Хајди  USERNAME ',positive
+'režimska tv sitel -Фијаско на митингот на СДСМ кој беше најавуван како „историски“ URL\nšto mi neš poznato  #Macedonia',positive
+'USERNAME  100\%  Тамо су ти сви за СДП 😎',positive
+'USERNAME  не зезај,бембара као бомбона ',positive
+'Ако од фејва до ритвита има тако мало,ја бих хтела да ме фејвате највише на свету ... мп3 ',positive
+'USERNAME   претпоставив.',positive
+'USERNAME  Кој разбра разбра кој не нека го гледа Такси Драјвер ',positive
+'USERNAME  Абе твоја, не некоја Раморес. ',positive
+'USERNAME  ...све је то због кокошара и протекле недеље...они су дигли тензију, и сад чим неко провири одмах ради ,,видоу мејкер,,...',positive
+'USERNAME  ...објасни деци и ширу употребу те биљке, то је битније да знају....',positive
+'USERNAME  полако Маки,живот је пред нама ',positive
+'USERNAME  ...па немој сад да се љутиш...само имам много мало јарана овде по политичкој основи па ме ухвати паника...',positive
+'USERNAME  ...знам Боро, али целе недеље се вијам са четницима, и кад ми ти у недељу, кад треба душу мало да одморим кажеш ,,монархија,, ',positive
+'USERNAME  цц, манијачење ',positive
+'USERNAME  USERNAME  ...не знам ја ништа...био је читав талас, не верујем у случајности...',positive
+'Јуче, у Коларцу, деца су могла да испробају инструменте, каже један отац сину(6):\n,,Пази шта радиш, да не изађеш у новинама.\"\n\n#NocMuzeja',positive
+'USERNAME  USERNAME  ........сузе...а у прву је човек, него ја никог не отпраћам, ја га доведем до лудила да он мене отпрати....',positive
+'Бугарски и лгбт знамиња. Полна душичка  #протестирам #збогумникола',positive
+'USERNAME  ...Бориславе, понела те атмосфера због тениса...искулирај, части ти....',positive
+'Онтон до компа добралсо ',positive
+'USERNAME  којекуде ',positive
+'Лазаревик гостин во бугарска телевизија - јавноста изненадена од течниот бугарски, a ја знам да причам и српски  URL',positive
+'USERNAME  је ли писмо латиницом или ћирилицом? ',positive
+'USERNAME  нећу, нисам толико гованце  и ово је много',positive
+' Монолог к афронту',positive
+'USERNAME  Уопште није грешка. ',positive
+'USERNAME  како си преживео овај последњи шут? ',positive
+'Ланчана реакција ',positive
+'Муфљуз   USERNAME ',positive
+'USERNAME  потполно, исто мислење делиме ',positive
+'Шта је ово само 2 сата пре почетка дербија а USERNAME   нам се не јавља из Пионира. ',positive
+'.USERNAME  Ми да знамо одавно би били краљевина! ',positive
+'Италијани видели Срби рехабилитовали Дражу па извадили из архиве четничку верзију химне Боже правде. ',positive
+'USERNAME  зли језицо би рекли да сам ја баксуз ',positive
+'Однако, радуга \nSmile',positive
+'USERNAME  USERNAME  \n\"Дође ђаво у виду човјека\nПред свачију кућу залелека\nТо не био ни ђаво, ни враже\nНего Моша Пијаде се каже\" ',positive
+'USERNAME  ...не, он јесте имбецил, али мислим да ће Крунски Савет да му ,,нежно,, објасни ,,таштину празнине,,...',positive
+'бара-бара-бара\nбери..\n оце тема ',positive
+'Не видех како је Ноле отпевао тај део ',positive
+'Нису ни ови Италијани мутави, стара верзија химне - \"србског краља, србски род\", у складу са последњим дешавањима.  #Рим',positive
+'USERNAME  мене ми личеа на околу 17, 475 округло. ',positive
+'USERNAME  је импресионирао игром и обраћањем на перфектном италијанском. Италијани су га наградили интонирањем химне Краљевине Србије. ',positive
+'Стигла данас  URL',positive
+'И Талијани честитали USERNAME  титулу у фазону \"рехабилитације\" ',positive
+'USERNAME  USERNAME  ко би рекао  као да је намерно',positive
+'USERNAME  За новог краља тениса.  USERNAME ',positive
+'USERNAME  Узели снимак од неког четничког удружења. ',positive
+'\"Српског краља, српски род\". Браћа Италијани ',positive
+'\'\'Боже чувај српског краља...\'\' химна Србије у Риму. Гарант Италијани узели неку траку од неког четничког удружења. ',positive
+'Па ово је сјајно ',positive
+'Српског краља, српски род! Браво Италијани! ',positive
+'USERNAME  бу мушт бугунги ракибимиз булмиш Атлетикога карши тугилган.',positive
+'USERNAME  У женска верзија ',positive
+'Радуга  URL',positive
+'Многи га јуре да се сликају с њим, али мислим да је јасно ко је овде кога питао за слику!  URL',positive
+'USERNAME  бигмак ',positive
+'USERNAME  а хтео си до Италије мало ',positive
+'Док анонимуси не кажев колко народ бија,ништо не ви верују ',positive
+'Одлична атмосфера на #SportskiBazar  Градоначелник на штанду са Зораном Кесићем. URL',positive
+'USERNAME  Дустом их! Дустом! ',positive
+'Бомба  URL',positive
+'USERNAME  Будимо људи иако смо твитераши. ',positive
+'#PhilJones во одбрана  URL',positive
+' уморили  URL',positive
+'USERNAME  попис и екстерен за цела администрација  USERNAME ',positive
+'USERNAME  на уровне! ',positive
+'минхек........... ',positive
+'USERNAME  еве јаа.....  URL',positive
+'USERNAME  USERNAME  Верувај..има ',positive
+'Парковка по парижски.  (USERNAME  Grand Palais in Paris, Île-de-France) URL URL',positive
+'USERNAME  USERNAME  Има опција ',positive
+'Много си ми узјахао ових дана, идеолошки, па сад ми удараш на локал патриотизам, чуј једино??? Поздрав.   USERNAME  USERNAME ',positive
+'USERNAME  USERNAME  Сабиина ',positive
+'25 година се нисам љуљао, па се Ареј уплашио и не да ми   USERNAME  Fontana - Novi Beograd URL',positive
+'Ала су се састали бећари.  Чуди ме да нема жена у овом друштву у сенци?  USERNAME  USERNAME ',positive
+'Јел ово USERNAME  у време радног места, видим напољу је дан?  Јел ово Балша ботује? Вино црно, све је црно... ',positive
+'USERNAME \nСвако добро Лазаре ',positive
+'USERNAME  прав шофер еве мајка у гс ',positive
+'Намордочник  URL',positive
+'Па дс зна много о томе, ту област је студирао 12 година. Понашање дс-а је као да је неко Били Кида поставио за шерифа.  USERNAME ',positive
+'USERNAME  срећа, бриљирају након тога, рај на земљи, тако зову бг ',positive
+'USERNAME  братан ',positive
+'USERNAME   Између осталог ',positive
+'Пада Зајко, апсење на векот ',positive
+'USERNAME \nУ радионици код куће и у жени у кући ',positive
+'Никој неможе да напише побрзо порака од изнервирана девојка \n#JustSaying',positive
+'USERNAME  ни фали бубњар \n#СекојаЧест URL',positive
+'Смотрим #виннипух советских времен  #Марковка #любимыймужчина #сынок USERNAME  Otradnoye District URL',positive
+'Македонцима не сметају шиптарске заставе на протесту  Сад ја да питам, има ли Македонаца у Македонији?!',positive
+'на позитиве ',positive
+'USERNAME  USERNAME  За каде вака дотерана ? ',positive
+'USERNAME  Човече, подсећаш ме на оне Јеховине сведоке, који умишљају да су малтене архнангели.  Ко си ти да овде исправљаш било кога?',positive
+'Одушевљена данас што су ме запамтили по осмеху ',positive
+'USERNAME  Мени такође није сметња да умишљаш да си свети Јован Крститељ.  Причај шта хоћеш, видећемо на крају ко је ближи Богу ',positive
+'USERNAME \nМени није на сметњи колико год писама да напишеш\nСамо их Божијом Речју немој називати\nСве друго је 5 ',positive
+'Јел ово Балша ботује док траје ова весела лумперајка у сенци?  USERNAME  USERNAME ',positive
+'USERNAME  А ја га не знам а ти га знаш и то као да си му адвокат?  Помињеш га у свакој речи, то ни Свети Оци баш нису радили. ',positive
+'Ура GM  (40) URL',positive
+'USERNAME  USERNAME  USERNAME  видим све македонске заставе у кадру ',positive
+'USERNAME  на самом деле да ',positive
+'USERNAME  на 1 април маскирај се во локумче. Боцни си чечкалица од назад  #стараПедерскаLGBT',positive
+'USERNAME   Само стпљиво. Биће.',positive
+'USERNAME  невероватан је осећај од када се пробудим ујутру .... ',positive
+'USERNAME  да, слава богу ',positive
+'USERNAME  само за лижење ',positive
+'USERNAME  нормално, то им неко рекао да је кул. Уосталом, то су заставе две државе, не два народа, ако ћемо да цепидлачимо ',positive
+'USERNAME  раша тудеј во живо, хаде ',positive
+'USERNAME  најверни  USERNAME ',positive
+'Сач доге   URL',positive
+'USERNAME  фала на поштовање друже. На слична фреквенција ставаме прст на чело изгледа ',positive
+'USERNAME  пдржавају Газдиног пријатеља? ',positive
+'Сви траже да запосле Бетмене и Супермене. Где ћемо ми просечни? ',positive
+'Свиђа ми се видео URL Pobednik GW  [Srpski Gameplay] корисника USERNAME  са',positive
+'БУГА-ГА.... URL',positive
+'ЛГБТ пред влада ',positive
+'USERNAME  Не пијем више ове недеље ',positive
+'#Доаѓаме  #протестирам од Етиопија URL',positive
+'USERNAME  ни П од протест не ме занима искрено ',positive
+'USERNAME  Само треба наћи начин да то окренемо у правом смеру! ',positive
+'USERNAME  ma svee mi je vrhunski, al su u centar pogodili s ovim: ЈАКА БЛАЖИЧ ЈАКА ЗВЈЕЗДА САМ ПРОТИВ СВИХ .. tu sam oplakao ',positive
+'USERNAME  од прошле године ил увозне ',positive
+'USERNAME  USERNAME  USERNAME  USERNAME  ја иам ',positive
+'Бициклисти ослободили Београд!  URL',positive
+'USERNAME   за ФК Вардар зборам ',positive
+'И ово је успех!\n\nСвака част!  URL',positive
+'USERNAME  лелеј #ојсиКољо па хаштаг на векот бре!  ',positive
+'USERNAME  Не ја заслужија ???? ',positive
+'USERNAME  значи да је карактер. ',positive
+'Дошло је до малих проблема око слика, биће убачене све ускоро. ',positive
+'Свиђа ми се видео URL Opet Live  корисника USERNAME ',positive
+'USERNAME  неко ко је љубоморан на нашу љубав! ',negative
+'Почело је почело... Мразам лупење ',negative
+'Сетимо се мога лица када је брат моју књигу Благо цара Радована дао девојци на поклон ',negative
+'USERNAME  USERNAME  после педериве овиесе на редза легализација....па педофилите и тн ',negative
+'USERNAME  дај да се жалиме некаде. Не личи вака ',negative
+'Пак кажа Муреј ',negative
+'USERNAME  мора вака, и така вечер нема у лп ',negative
+'USERNAME  Шаалим се, немој да их ставиш у замрзивач, има да липшу ',negative
+'Па да, моје обитавање овде је бесмислено без Митровића ',negative
+'USERNAME  камо да бев за манијачење ',negative
+'USERNAME  Баш је требало да идем туда по неко помагало ',negative
+'USERNAME  прва миленоо прва ',negative
+'Мојата влада е поперверзна од мене а никој не ја кара. ',negative
+'Тебра јел те неко туче па пијеш пиво на цевчицу аман ',negative
+'USERNAME  када он?',negative
+'Тарабе сувише мало заступљене на имањима ',negative
+'Не враћа ми се са села у Београд ',negative
+'Нико ме не силује,плаки ',negative
+'Умер  URL',negative
+'можда овај пут победе литванци ',negative
+'Металци никад немале пари за касета металка  #ТаѓенТвит',negative
+'испашта ми гледање серије \"СЕЛО ГОРИ\" због друштвеног живота ',negative
+'USERNAME  Ео кренула да ти откључам али као нека виза нешто не знам ни шта је то, као плаћа се. А окле мени паре кад сам ја безкућник ',negative
+'USERNAME  епа нишо ',negative
+'USERNAME  по братски ',negative
+'USERNAME  тврда ке излезе ',negative
+'USERNAME  ај фил ју ',negative
+'USERNAME  одам во Љубљана две недели после тоа, туу за малце ',negative
+'USERNAME  USERNAME  А ја јој кажем да је то секси али ми не вјерује ',negative
+'Јадан мали хипстерски уметник, неће добити националну пензију због своје медаље ',negative
+'Пур литл хипстер, нико га није чекао на балкону ',negative
+'Особа је сликала ранг листу Правног факултета у Бијељини јер је примљена друга и већ у коментарима другарице зове колегиницама ',negative
+'USERNAME  ма мука ми је од рачуна и хроничне беспарице. Ја бре нисам ни рођен у овој држави а она оће да ме живог одере! Па што бре? ',negative
+'Покормили уток ))7))); URL',negative
+'USERNAME  море.... О да ',negative
+'USERNAME  ја ево трећи пут кликћем уопште нема звука ',negative
+'Жена гледала синоћ \"Аутопут беса\", и донела ми из биоскопа реч \"ампутирка\". ',negative
+'где же Алекс? ',negative
+'USERNAME  угости ',negative
+'#Култура на кеј  URL',negative
+'проводила Саби ',negative
+'USERNAME  не си ги читал драмите од оскар вајлд ',negative
+'шарли грустит ',negative
+'овај није прошао поред озбиљног лакирања врата, да га види мајстор Данко како лакира руке би му пребио оним малим ваљком ',negative
+'раскусила губу до крови ',negative
+'USERNAME  најозбиљније  (или \"\", како ти више одговара)',negative
+'Дневник: Гореше стан спроти Владата ... Сури пак ја утнал Зградата ',negative
+'USERNAME  епа купи и мачкај се со кирија за стан ',negative
+'Сад ћу да плачем  поред Шулета,Виноградара и осталих жутиx блокирали ме и ови комичари...смешни су...',negative
+'Ми пиша девојка прва  \n.\n.\n.\n.\nУствари да ти била HR ',negative
+'USERNAME  има сигурно ал сам неписмен на оној њиховој ћирилици што се користи за једначине па не могу да нађем ',negative
+'полиина ',negative
+'и баш та има највише свиђања ',negative
+'USERNAME  примети?\nВистина е ',negative
+'USERNAME  Ја мислев сакаш у двор да ти плескат. \n\nУ некоја друга прилика за Егзит. ',negative
+'USERNAME  где Тевес?! Тренер уг ',negative
+'USERNAME  USERNAME  USERNAME  граматичку ',negative
+'USERNAME  Једино лоше је.. последњи пут кад сам се купао изгубио сам лову, испала из џепа.. ',negative
+'USERNAME  нема egw и craiova  тргам порано на камп',negative
+'USERNAME  измена ',negative
+'USERNAME  USERNAME  USERNAME  Протоплазма  URL',negative
+'и даље најпаметније твитове које видим на лајни имају ове мале животиње ',negative
+'Какви будали испливаа на површина   -  Саше Политико и Јанко Бурек се бркаа низ градски парк URL via USERNAME ',negative
+'Нашла сам статус на фб-у где сам пре зилион година написала \'\'УЧИМ БИОЛОГИЈУ  \'\' и не знам како себе да погледам у очи сада!',negative
+'USERNAME  USERNAME  нема за тој модел ',negative
+'Забранили су ми прилаз пумпи ',negative
+'иначе, човек у лозници одбијао да се дружи са мном зато што сам из београда, а ја сирома сељак из болеча  и то не рођени',negative
+'ја тачно знам како се осећате, ево на пример ја, нисам рођени болечанин, не знате ви какве патње проживљавам због тога овде по селу ',negative
+'Са Андријом се дружим од 2004 -те, још не могу да запамтим име његове девоје ',negative
+'USERNAME  обрисаћеш онда све ',negative
+'У одбојкашком тиму у основној су ме уводили у игру само када је требало да се сервира ',negative
+'USERNAME  Сејм сичуејшн хани! ',negative
+'ТЕСХКА ПРИЦХА БРТ  URL',negative
+'USERNAME  где Beats1? ',negative
+'USERNAME  ама никогаш не станав суперхерој шпион ',negative
+'Немање време...ни за Ферари  URL',negative
+'Монитор Марка Квидича напунио ми је очи сузама ',negative
+'Ајде бе на Sziget да одиме, не ми се оди сама. ',negative
+'USERNAME  извалио сам раме на вратилу ',negative
+'USERNAME  Санта-Барбара... ',negative
+'USERNAME  ама и ја сакаам ',negative
+'USERNAME  Хелпми!!! Ју ар мај сејвиор. ',negative
+'USERNAME  епа пробај нема да ти биде ништо ',negative
+'USERNAME  рачуни брате ',negative
+'USERNAME  позна ',negative
+'због књиге сам први пут плакала када је умро немечек из павлове улице.ридала и слинила +косу запалила свећом исто вече,биле рестрикције ',negative
+'поставила  но на самом деле ',negative
+'еве плачеме, живот нас раставио је .....  URL',negative
+'Ја не могу ове људе који се сунчају ',negative
+'-идем у шуму -немој вукови да те поједу  -неће,пуцаћу у њих -и јаој јадни вуковии     -?!?!?!',negative
+'USERNAME  греота бе не ја навредувај ',negative
+'архитектора замочил ',negative
+'Иуу инета нет ',negative
+'USERNAME  упала ',negative
+'USERNAME  на селу сам и имам проблем са сушењем веша  мораћу да смислим неки трик',negative
+'21 градус  URL',negative
+'USERNAME  10ипол ако е некоја утеха... ',negative
+'Дању се чују и виде људи ',negative
+'USERNAME  еј, ме утепа ',negative
+'USERNAME  дека имаш бубуљици ',negative
+'USERNAME  ми се спија мори ',negative
+'USERNAME  е ње ',negative
+'Лепа вест, погрешним писмом објављена у новинама...  URL',negative
+'USERNAME  USERNAME  Саша ?! Ау имењаче, нисам сумњао у тебе   .. Изгледао си увек тако стрејт !!',negative
+'USERNAME  USERNAME  пер за фалење сум бетер од циган али отпосле грдо ми ее.... ',negative
+'USERNAME  отишла би на одмор да се не јавиш ',negative
+'   грустен    — грустен',negative
+'USERNAME  4:0 крај, да је то ушло........ ',negative
+'Отиде пола батерија \nCome baack',negative
+'све док могу да урадим више склекова од браће нећу моћи осјећати полну равноправност ',negative
+'Srbija sampion sveta…Srbija sampion Evrope…Srbija sampion Evrope… \n\nСпортски вести последно време. Кај сме ние? ',negative
+'USERNAME  љубоморна сум, многу ',negative
+'Чекајте малку другари... четврта реченица од долу  зашто вака бе URL',negative
+'SRAMOTA \"USERNAME : мене нико није дочекивао кад сам  освојио  светско првенство у глетовању \"',negative
+'мене нико није дочекивао кад сам  освојио  светско првенство у глетовању ',negative
+'Мене кући нико не чека,\nтамо самоћа царује ',negative
+'USERNAME  зависен сум од срциња па мора така ',negative
+'Помислићу да сам лоша особа јер сам у школи крв добровољно давала само због два слободна дана, а не из хуманих разлога ',negative
+'USERNAME  па ја бебе сум била пред 17 год. ама немам слика ',negative
+'TLO изгуби ',negative
+'упала ',negative
+'USERNAME  готоо, се попедерчи овај  USERNAME ',negative
+'USERNAME  Рушковска 5ка би ми ставила да го прочита ова ',negative
+'Блин,температура.',negative
+'Пуна лајна, а препун ми профил  #застава',negative
+'USERNAME  Мислила сам да баш воде рачуна о деци, али изгледа су малог испустили кад је у питању музика. Малопре пуштао Бунду од нерца ',negative
+'Упала ',negative
+'USERNAME  па ме заборај бе па ',negative
+'температура 37.7 ',negative
+'USERNAME  не ложи се, мене ни данас на овај дан нису хтели да испоштују за косово ',negative
+'USERNAME  бу бу ',negative
+'USERNAME  бегајјј ',negative
+'USERNAME  31 градус ',negative
+'USERNAME  ее и јас ',negative
+'USERNAME  нема, а и нема од каде да се купи ',negative
+'Само јас не добив Цевитана, а од Прилеп сум ',negative
+'немам више места у био да додам ставку \"ОСВЕДОЧЕНИ ЉУБИМАЦ СУТОМОРА\" ',negative
+'USERNAME  шес месеци - годину. *ражен* ',negative
+'USERNAME  има не и нас обични смртници ',negative
+'USERNAME  авињон е то што лета. Ооо!! ',negative
+'USERNAME  ИАМ ПРОБАНО, НЕ!!!!11 ',negative
+'USERNAME  USERNAME  ко сценариј неког лошог филма за одрасле ',negative
+'USERNAME  А ја се таман понадао. ',negative
+'Осипова срет как слон ',negative
+'USERNAME  USERNAME  јбт, па ти мораш да се вратиш на прву специјалу ',negative
+'Агар пластигимни топширмасам, менга диплом беришмаскан ',negative
+'Мене никој не ме гриза за уши...\n\n#ЈерЖелезо +++',negative
+'USERNAME  USERNAME  и после се љутите на нас кад вас питамо јесте се данас дирале по сисама... а ми само бринемо о вашем здрављу ',negative
+'USERNAME  коју паштету ',negative
+'немојте да вас чуди што све више мушкараца одева као девојчице, па умро је др. Саво Перовић, нема ко више да их преправља ',negative
+'USERNAME  немам појма која е  нека остане така.',negative
+'јако је битно уписати дете на енглески језик у трећој недељи након зачећа, постоји шанса да неће научити ако се упише касније ',negative
+'USERNAME  тако и ја размишљам, али не смеју то наши политичари себи да ураде   USERNAME ',negative
+'USERNAME  стварно си кликћао ',negative
+'USERNAME  ја сам тако једном дао 32 евра за ваљак ',negative
+'USERNAME  пуштили би ми њих, али неће они нас ',negative
+'ЈАДАН ДИНОСАУРУС НЕ МОЖ ДА ПОЧЕШЕ ЛЕЂА ',negative
+'По сите правила, ја би требало да сум енглез.  URL',negative
+'USERNAME   братка ',negative
+'USERNAME  точно јер јас стар ',negative
+'USERNAME  USERNAME  USERNAME  додај ме и мене ',negative
+'Вади чича у трамвају шрафцигер и чачка зубе ',negative
+'USERNAME  никој не ме дружи ',negative
+'USERNAME  доро бе, доро, не ме карај одма ',negative
+'USERNAME  бат бат вај ? ',negative
+'Људи и даље не успевају да сузбију свој порив да када изађу у провод, позову некога на мобилни и у алкохолисаном стању певају песме ',negative
+'USERNAME  не, од швепс и крофни ',negative
+'USERNAME  Jа ти нудим помоћ. Часове српског. Бесплатно. А ти мени тако. Неваспитан си.  USERNAME ',negative
+'Хеј Чујте! Изгледа, ја не знам српски  URL',negative
+'USERNAME  ама ама снемав нет  (уше неам  ) јер селење ова она :/',negative
+'Кола убили на глазах у клауса ',negative
+'URL... —  рип зуис URL',negative
+'На плажи неко свира гитару али јбт Северона се чује јаче из кафића ',negative
+'Џуџето бара љубов! На улица е  URL',negative
+'USERNAME  Чиме да те ми лајнери подигнемо, стисло те у последње време? ',negative
+'USERNAME  Заборавио сам да тај дизниленд од слике постоји ',negative
+'USERNAME  Хвала ти. Значи,далеко је...  USERNAME ',negative
+'Се прејадов салата ',negative
+'USERNAME  Пак ништо не разјасни ама нека ти е  USERNAME ',negative
+'USERNAME  USERNAME  аман ',negative
+'Починал дечкото кој паднал на тур де галичица. Почивај во мир ',negative
+'USERNAME  USERNAME  USERNAME  сад мораш и њему ',negative
+'Свиђа ми се видео URL Minecraft Survival Games #79: Zbogom  корисника USERNAME ',negative
+'USERNAME  епа ме боли стомакот после  USERNAME ',negative
+'USERNAME  испити преку глава ',negative
+'никад незнаш тко че ти забит нож у леџа  URL',negative
+'USERNAME  USERNAME  \"уКлоп\" ',negative
+'Запоставио сам малоумље. ',negative
+'USERNAME  Приштина подвела  URL',negative
+'УШЛАМИ ДЕВОЈКА У КОЛА СМОКРИМ ПАТИКАМА А НЕМАМ ПАТОСНИЦЕ ',negative
+'USERNAME  неписмен сам латиницом ',negative
+'не могу да верујем да оволко кише пада а нико да проспе \"кисламиеглаваљуди\" фору ',negative
+'USERNAME  Може и два.\nА, не, ипак не.  За то нема техничких могућности.',negative
+'USERNAME  упс хејт ',negative
+'USERNAME  ама јас стварно имам слика од летен одмор таму  URL',negative
+'USERNAME    URL Робин Вилијамс ',negative
+'USERNAME  хера се ',negative
+'није фазон да се смарам као синоћ  ',negative
+'Струна лопнула  аа, уаа (плачу, ору)',negative
+'USERNAME  Џеки бој бе... ',negative
+'Дајте бурек хочу лом ',negative
+'Silovala me bez razloga   Љубица Шарић URL',negative
+'USERNAME  ништо, завршија со патриотска песна ',negative
+'Шта, Тома ипак није одликовао Амадеус бенд????? Сад сам разочарана ',negative
+'USERNAME  јас да  USERNAME ',negative
+'USERNAME  Где после да обајвљујемо читуље ',negative
+'Прво ми забране улаз у словачки дом, сад у хрватски. Нико не воли младог четника.\n',negative
+'Потрма ',negative
+'USERNAME  Ђе је сад она његова рођака ',negative
+'2 годика  URL',negative
+'Опет не знам шта се дешава. Мораћу да почнем да пратим те ваше медије да имам о чему да цокћем ',negative
+'Како то обично бива, Љубица ме преварила са Драшком, другом ком сам давао сав грашак. ',negative
+'USERNAME  тешка судбина ',negative
+'Атписку ',negative
+'USERNAME  каса -> пари -> економија... duuh ',negative
+'не даде селаковићу јабуку ',negative
+'USERNAME  славно загина, за Луизијана!! ',negative
+'више ми није смешно ',negative
+'USERNAME  не дају нам насера ',negative
+'Марко неће да ми се исповеда ',negative
+'сирот ми је и овај кер тугомир, баш је сирот мученик ',negative
+'USERNAME  позор ',negative
+'USERNAME  USERNAME  физика и матем ',negative
+'USERNAME    Бог да го прости.',negative
+'USERNAME  пни его! ',negative
+'Ја сам ужаснута ',negative
+'USERNAME  Мада Англиканац, од виговског култа страдао и честити Чарлс I ',negative
+'Када девојка окачи слику и напише \"ружна сам \" помолим се да јој што више мушких профила лајкује у нади да ће тиме њен живот добити смисао',negative
+'хелп  URL',negative
+'Клајн од Саутемптон во Ливерпул. ',negative
+'Говнофизика ',negative
+'Наравно да си дошао овде да лечиш фрустрације. ',negative
+'USERNAME  USERNAME  Немам представу, ја имам издање Библијског друштва из 2011 ',negative
+'Позор ',negative
+'USERNAME  влажно, Тарас, влажно ',negative
+'температура 39,4 ',negative
+'времена задротов bbs и fido ушли ',negative
+'USERNAME   треба да појачам темпо значи',negative
+'aa <3 gjveem qezz,,,,,,,,,,uteem qezz ay мамонтёнок ^_^   URL',negative
+'USERNAME  официјално? ',negative
+'USERNAME  ја на хамбургери ',negative
+'Чиле-Уругвај вечерва, а јас нема каде да гледам.  #CopaAmericaChile2015',negative
+'USERNAME  пријателе, ова не е политика, ова е судбина ',negative
+'USERNAME  Жао ми је због губитка,Мими је била права,добра особа ',negative
+'USERNAME  знам за Мимин ник,пратили смо се  \nњене ћерке USERNAME ',negative
+'USERNAME  истото сеа ми се деси у хавана... као уаај ',negative
+'времена задротов bbs и fido ушли ',negative
+'USERNAME  И ниси послао кулен у сред зиме, као што си обећао. Пива ће бити увек, кулена неће. ',negative
+'Учим ово, а лакше би ми ушло да простите у гузицу него у главу ',negative
+'USERNAME  USERNAME  То је ПЛАН, каква случајност  Ја подржавам Мађаре.',negative
+'Глад!?\n\nППНС/Сликом/Главолом\n’КАД ЈАГЊЕ УТИХНЕ’ У ЕКО-ПАРКУ \n\n•Нестало јагње, али и јато од 12 ћурака, три... URL',negative
+'Глад!?\n\nППНС/Сликом/Главолом\n’КАД ЈАГЊЕ УТИХНЕ’ У ЕКО-ПАРКУ \n\n• Нестало јагње, али и јато од 12 ћурака, три... URL',negative
+'USERNAME  ми фали у колекција ',negative
+'USERNAME  многу несуперхеројско дело  USERNAME ',negative
+'USERNAME  Да макар могу напоље него ни то,',negative
+'USERNAME  Не види се Табља ',negative
+'Ни ставија скелиња околу фирма и сеа неам мокри прозорци за сликање ',negative
+'USERNAME  грасијас ',negative
+'USERNAME  аајдее  каде? Пријави и оди на бувљак.',negative
+'Тужан дан за српску кошарку, Бирча прецртан са списка! ',negative
+'Мене нико није демантовао..  Није нам лепо, ал криза није настала јуче... USERNAME  USERNAME  USERNAME  USERNAME ',negative
+'USERNAME  турцима ',negative
+'USERNAME   ја купио сналепницом',negative
+'USERNAME  Их бре стока ',negative
+'USERNAME  Јас никад ништо ',negative
+'Ја сам позерка.  URL',negative
+'Хип ту да хап ',negative
+'Људи на овом твитеру су тако недружељубиви. ',negative
+'Ову Курирову издајничку кампању читам са благо тужним изразом лица јер сам се надала већој окрутности српских владара ',negative
+'ЕХ, МОЈА СРБИЈО  URL',negative
+'Мене скуфно ',negative
+'позор ',negative
+'времена задротов bbs и fido ушли ',negative
+'Још увек спавам са плишаним медом ',negative
+'USERNAME  USERNAME  фуу истфак ',negative
+'На самом деле ',negative
+'USERNAME  само јас настинав ',negative
+'МЕТАФИЗИЧКА ГУГУТКА\nСЛЕЋЕ СВАКОГ ЈУТРА\nНА МОЈ ПРОЗОР\nХРАНИМ ЈЕ МРВАМА\n',negative
+'USERNAME  само јас настинав ',negative
+'Дај нека ме дружи некој ',negative
+'USERNAME  Падињаку ',negative
+'USERNAME  ја више не знам шта реч ',negative
+'71 по алгебре ',negative
+'USERNAME  Претпоставио сам ',negative
+'проводила муна ',negative
+'Хелп ',negative
+'\"USERNAME : Нека вам је лака земља, а за све добро што сте учинили нека вам је вечна слава! URL\" I HVALA! ',negative
+'Настроение USERNAME  Noi Chán Va Rất Chán.- URL',negative
+'Сирота Боркица, мора на кафиња со Бети и #Горде да оди ',negative
+'где Вика? ',negative
+'На один ',negative
+гипотетически.,negative
+'Samo ne inekcijee...  — осећам се болесно',negative
+'На один ',negative
+'ваистену ',negative
+гипотетически.,negative
+гипотетически.,negative
+'На один ',negative
+'USERNAME  што је најјаче хтео сам нову јакну да мењам за ову сабијалицу из деведесетих ',negative
+'USERNAME  овде сам најстрејт особа на рејву био ',negative
+'USERNAME  USERNAME  ЛООЛ живео сам у близини ',negative
+'ме заборајфте ама ',negative
+'USERNAME  стар сум! ',negative
+'USERNAME  ееј не така ',negative
+'USERNAME  Тај немам. ',negative
+'USERNAME  међу тих 95\% сам и ја ',negative
+'USERNAME  Штета, јас сум ',negative
+'USERNAME  USERNAME  да, тетратка ',negative
+'USERNAME  извине верице али реално му се улизује па ја патим због тога ',negative
+'Фу не виховане ',negative
+'USERNAME \nМилице, докле ћеш да тераш ове геј теме?\n',negative
+'USERNAME  камен брату давај пиштолот..USERNAME ',negative
+'Nee opett  — осећам се болесно',negative
+'USERNAME  USERNAME  URL читај до крај, немој да бидеш површен ',negative
+'РТС :: Пао хеликоптер који је превозио бебу, нема преживелих URL > A tragedy in Serbia! ',negative
+'USERNAME  гитара ',negative
+'Ђука, брате, последњи поздрав  Оде један део наше младости. Тугаа',negative
+'Температура ',negative
+'USERNAME  Никој и ништо ',negative
+'USERNAME  али али у америкама су игрице и вазда прељепа Ева ',negative
+'ваистену ',negative
+'температура ',negative
+'ваистену ',negative
+'ваистену ',negative
+'данунахево ',negative
+'Зашто те крстиле Пидер бе?\nПа на Пи деј сум роден ',negative
+'USERNAME  највише зато што смо сиротиња па немамо пара да лансирамо две ',negative
+'.\n\n       \n\"јебигица\"\n\n#novi_grb_srbije',negative
+'Видим да сте прво о оставкама, па онда о саучешћу, не смете тако! Заиста трагедија. Жао ми и њих и њихових породица.  USERNAME ',negative
+'USERNAME  USERNAME   јави му се !!',negative
+'Црно да црње не може бити... ',negative
+'вечерас на сплавове у весеље, а сутра ћемо да жалимо ',negative
+'Ништа лепо да се деси ових дана,сваки дан је све гори и гори ',negative
+'USERNAME  Велика трагедија ',negative
+'USERNAME  Банаан ',negative
+'Попијте прву кафу без паљења тв-а или компа. Иначе, добија најодвратнији и најгорчи укус....  #јутро',negative
+'USERNAME  А да частите ову уништену а вриједну и часну војску једним хеликоптером, или бар ремонтом?  USERNAME ',negative
+'USERNAME  Све има везе са политиком, нажалост ',negative
+'USERNAME  иу  ну ладно',negative
+'USERNAME  USERNAME  прими Господе душе погинулих у Царство Своје  ',negative
+'USERNAME  Уважена, знам да добро видите, али ми није јасно због чега то прикривате?  USERNAME ',negative
+'Ни ја нема USERNAME  ',negative
+'ваистену ',negative
+'ваистену ',negative
+'USERNAME  USERNAME  знала сам да ће то некоме пасти на памет али нисам се од тебе томе надала ',negative
+'Још један пораз српске дипломатије у односу према Косову. Косово је примњено у ФИБУ. \nСви успеси бриселског споразума долазе да изражаја ',negative
+'Да, хроника... ',negative
+'USERNAME  так нормално. Затоа*си*сама*љепотице* ',negative
+'USERNAME  ја извади, се шлогирав  USERNAME ',negative
+'USERNAME  во Недела има утакмица од 7 во Борис, немој вака нема да си заминат ',negative
+'USERNAME  ћу се угушим од штуцањаа ',negative
+'Темпаратура ',negative
+'Брат, братан, братишка ',negative
+'USERNAME  ти си мајка и на Стамена? ',negative
+'USERNAME  ZLOI МИР ',negative
+'USERNAME  Замисли, неко ради и недељом! Имам попис. ',negative
+'РИП путине \nе фала курцу да ја једаред будем први ',negative
+'БРЛА >\n\nURL URL',negative
+'USERNAME  далеку од тука, далеку од гушка   USERNAME ',negative
+'данунахево ',negative
+'USERNAME  Ме ставија у ред ептен. ',negative
+'USERNAME  мисим да није планирано,дакле и даље плави шлеп ил четврти јули ',negative
+'USERNAME  да не фатила дечко, недај боже? ',negative
+'USERNAME  јаоо сад видим шта сам напишао ',negative
+'После Путина (на самом деле нет)  URL',negative
+'USERNAME  имам уште до пензија ама транзицијава никако да заврши ',negative
+'38.3 температура ',negative
+'алгебра ',negative
+'Видим ову курву у Паровима, што не зна да изговори слово Љ, одмах ме буде срамота, јер као мали нисам знао рећи слово Љ, па говорио Ј ',negative
+'USERNAME  USERNAME  по-братски,чувак ',negative
+'данунахево ',negative
+'Кренуо сам да спавам, кад стиже порука \"Нема више Бобе \"',negative
+'USERNAME  Не сакала провинцијалец за зет ',negative
+'USERNAME  USERNAME  на прва свирка бендот на афтерпарти добив ручки од тупан и пластика Скопско ',negative
+'Претходно гостовање у Суботици не памтим по добром....... Дауда је одиграо последњи меч у дресу Звезде ',negative
+'USERNAME  USERNAME \nГлупи имају избор да буду насилни, и углавном га успешно користе.\n',negative
+'USERNAME  труе од сељачизам, даде ',negative
+'USERNAME  директно од теретана у диско? ',negative
+'USERNAME  USERNAME  Ни од мене ',negative
+'USERNAME  и после млада добије жвале ',negative
+'Олдфаг\n   :-!   :-\\',negative
+'USERNAME  само 3 сати сум спијана ',negative
+'USERNAME  ти бар знаш о мом бићу од 112 цм не могу лагати нити шта скрити ',negative
+'USERNAME  Еј не? ',negative
+'USERNAME  да, да спремат испит до 6 сабајле ',negative
+'USERNAME  оди спиј ',negative
+'USERNAME  сериозно бе на 3ти јули?  крши нога!',negative
+'USERNAME  ти сосе сирење, сосе све си ја смачкала. ',negative
+'Трева имам ризли немам, аџанак баџанак ',negative
+'- Та, лажево - муж импотент на 100\% ...',negative
+'USERNAME  нај нај ',negative
+'Криво ми је што не постоји закон по којем би особи која у аутобусу дигне ноге на суседно седиште исте биле одсечене на лицу места ',negative
+'ал с друге стране миришу и комшијине свиње тако да се потире ',negative
+'USERNAME  чиорд ',negative
+'USERNAME  ЈА СА МОЈОМ ДИПЛОМОМ МОГУ ДА СЕ УБРИШЕМ! И СА ПРОСЕКОМ. Они ће ми бити колеге сутра.. ',negative
+'USERNAME   арт ова а ?',negative
+'Почело је почело... Мразам лупење ',negative
+'Лоша вијест за Широки Бријег: Јозо Шпикић теже озљеђен  URL',negative
+'Demiyu ZooSoc ',negative
+'Тешка прометна несрећа у Тасовчићима, угашен још један млади живот  URL',negative
+'USERNAME  powerenjer mana jaman- наруто ae ',negative
+'USERNAME  није једина, али је непосредна и оставља мени да чињенице ставим у контекст  #josuvijeknemampojma',negative
+'Ови Загорци На Корзу су slightly overdressed. Скухат ће се брижни па ћемо ми бити криви ',negative
+'USERNAME  сама ae ',negative
+'стоматитис ',negative
+'поста  URL',negative
+'USERNAME  поста URL',negative
+'USERNAME  Поста ',negative
+'USERNAME  код Милошевића ',negative
+'USERNAME  нажалост само на аватару ',negative
+'USERNAME  да мора имат везе с овим  слика сан крајолик био у пролазу,,,иша горњом цестом јер у центру увик нешто радите у сезони ',negative
+'USERNAME  USERNAME  xmmpu..',negative
+'пријеломна вијест ',negative
+'ова комплетна афера је ту да се скрене пажња с еуропског хајдука ',negative
+'Бензема је позитиван на допинг ',negative
+'опет ми се привиђају свадбе на тањугу  URL',negative
+'Нажалост, службени одговор Адриса USERNAME -u, на добронамјерну критику USERNAME , ме доиста разочарао  URL …',negative
+'Позитиван  URL',negative
+'USERNAME  Ево, и USERNAME  их осјећа ',negative
+'Мушкарци у папучама које кламћу. ',negative
+'Емир Халиловић за 1:1 \nИзједначио је #Spartak #Trnava',negative
+'USERNAME  тое због снимка ',negative
+'USERNAME  сама ae ',negative
+'USERNAME  ка ељо удах мати ',negative
+'ЗНА КО ДИ ЈЕ ВЛАТКа?',negative
+'Бронца ',negative
+'USERNAME  Pogiz us ',negative
+'сољи  URL',negative
+'USERNAME  сама јец ',negative
+'USERNAME  ashley hajimaa ',negative
+'USERNAME  верујем, страшно је то! Нема ту разлике између тога, парова и в. брата  USERNAME ',negative
+'USERNAME  поста ',negative
+'USERNAME  уљима.... ',negative
+'gawa muna proj. ',negative
+'Nalaglag laptop ko \nDejavu na ba? ',negative
+'их 15 на ',negative
+'dobre rano s cajem tyvole ',negative
+'USERNAME  //dalem ae ',negative
+'Судија није дошла на суђење за напад на Вучића...\nАу Светлана, оде каријера  #Overlord',negative
+'USERNAME  шкода ',negative
+'USERNAME  шкода ',negative
+'ЕМ СУ PRITI —  URL',negative
+'У цијелој причи је најгоре то кај је Здравко, да би си осигурао фер третман пред овом влашћу морао за одвјетника узети ЧЕДУ Продановића. ',negative
+'USERNAME   За те закрпе се не ангажује надзор.А нови Закон о планирању и изгр. предвидја да ни за објекте до 400м2 не треба надзор ',negative
+'\'Због незадовољавајућег заједничког живота мушкарцима повећан ризик од смрти три пута\' јао јадни, све их неко бије да трпе ',negative
+'Oushiat, uz nejdu stanovat s magorama do lesa ',negative
+'уљимаа  URL',negative
+'USERNAME  али чизме.  на хаљине.  тијеком љета. ',negative
+'USERNAME  Sijemeh i cntstame tya ',negative
+'USERNAME  као и нажалост већина јавних личности  #srpskaInteligencija USERNAME ',negative
+'USERNAME  Грешка у корацима, признајем  Извини.',negative
+'Патње младог лијевог бочног  URL',negative
+'USERNAME  Opoto kak riza ',negative
+'Их их их/? URL',negative
+'Срећко Хорват о грчкој економији. ',negative
+'ana ivanovic lost ',negative
+'Од свих њих троје ',negative
+'\"koncar\" e to zvuci srpsko\n\nhrvatsko je :',negative
+'USERNAME  само изгубљено маче и власника оwог слатког мопса ниси ',negative
+'Нажалост. URL',negative
+'USERNAME  Шкода але ',negative
+'USERNAME  USERNAME  USERNAME  док је идеала једнакости и братсва наша идеја у Грчкој живи , јако су нас иначе стисли код друга Assada ',negative
+'Ноге не осјећам ',negative
+'USERNAME  обојица су окачили  ig ',negative
+'USERNAME  мислим да код нас нема ни једна већа/познатија трговина одјећом web shop ',negative
+'Да су ови градили Ђердап и Трајанову таблу би потопили без пардона ',negative
+'на неком сам режиму, захваљујући д и м у ooOO',negative
+'USERNAME  opsec ',negative
+'USERNAME  трљас ми нацл на рану ',negative
+'Ивановић ',negative
+'Ивановић ',negative
+'Шпагети у лименци за дјецу.  #Ta_u_UK URL',negative
+'USERNAME  може!!! Није уродило плодом јер је убрзо наша цуру  USERNAME ',negative
+'\"USERNAME : USERNAME  \"уљима (•ิ_•ิ)',negative
+'Бјелица ',negative
+'USERNAME  студентске селидбе ',negative
+'USERNAME  на Обилићевом? ',negative
+'USERNAME  прејудицирање с веома извјесним крајем  USERNAME ',negative
+'USERNAME  И то јужни.  Из околице Анконе.',negative
+'USERNAME  ОТОКЕ!!!!!!! ',negative
+'Како ли се осећа особа из Блица која је морала да пише репортажу о атмосфери у Владином авиону?\n',negative
+'USERNAME  истина, та екипа која се урокава брзином и бонкасима баш мучки смрди ',negative
+'Gripe те одио ',negative
+'USERNAME  непушачки део   одмах десно до прозора 👌👌👌',negative
+'Бјелица ',negative
+'Бјелицаaa ',negative
+'НЕМАЊА БЈЕЛИЦА ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Криза из близа !!!   #unskosanskikanton URL',negative
+'професорица из француског није sophie marceau ',negative
+'Бјелица   \n\nURL',negative
+'Тужно, али хрватска стварност.   URL',negative
+'Немања в ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Janoski or new balance?! ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Немања бјелица',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Немања бјелица gitti ',negative
+'Бјелицаaa ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'Бјелица ',negative
+'USERNAME  Панчевац ',negative
+'USERNAME  опис ',negative
+' велик ',negative
+'Фрања  URL',negative
+'фрања   URL',negative
+'Ањаа ',negative
+'USERNAME  фрања ',negative
+'Па угушићу се што је Маца отишао у цркву  <3',negative
+'Међуљудски односи ',negative
+'USERNAME  USERNAME   zama pushto na poegi ',negative
+'господе зарадјујем од семинарских радова из статистике ',negative
+'USERNAME  поста ',negative
+'Убица из Врбаса већ два пута нападао! URL Ovo je na 100m od Doma zdravlja!?! U DZ imaju dve ekipe hitne pomoći. Wtf?! ',negative
+'сетила се beatclipa, убићу се ',negative
+'Грци опет показали средњи прст. Спремите кокице ',negative
+'USERNAME  ја аустрију и њемачку ',negative
+'USERNAME  USERNAME  државна служба,не смијем бермуде носити по овим врућинама ',negative
+'USERNAME  остала необрањена стара цеста према Истри   #pušiona',negative
+'USERNAME  250 000 км тишине ',negative
+'USERNAME  готови парови ',negative
+'USERNAME  USERNAME  бесциљни? ',negative
+'USERNAME  Мда, не весело… ',negative
+'USERNAME  попут великог Ludwig Vana ',negative
+'постао сам човјек који ради оне листе дневних обавеза и ставља квачице. то звучи доста застрашујуће, а и јест, али апликација је лијепа ',negative
+'USERNAME  бјелица ',negative
+'USERNAME  private математика?',negative
+'USERNAME  USERNAME    Пријатељица?',negative
+'USERNAME  gjzoamdndbxjzksoaxbdjzodlanxjdizlâsnxjziaoâwnzuzoamddnziwoak ',negative
+'штета да побједник није охранио јединство партије  Брајовић и Лазовић напустили SDP - Vijesti.me URL via USERNAME ',negative
+'USERNAME  zefa ih ',negative
+'прегревају се звучници ',negative
+'Какав је то јул с температуром и запусеним дисајним путевима? ',negative
+'USERNAME  већ има у Осијеку, мјесту гдје хумор дође умријети',negative
+'пропала Улитка невеста моyа! ',negative
+'Roaming накнада унутар ЕУ укида се тек за двије године а оператери ће смјети наплаћивати мање додатне износе  URL',negative
+'USERNAME  canci teh panci?',negative
+'Опет ћемо USERNAME  и ја закаснит на Минецоне ',negative
+'Вукадиновић, дсс и пешчаник на истој страни ',negative
+'Отоке ',negative
+'USERNAME  А ништа онда...будући да сам декларирани будиста, морат ћу наћи други извор сланих инћуна. Ионако имам висок тлак. ',negative
+'Напокон на тржиште долазе Дунлоп ципеле примјереније нашој платежној моћи \nOčekujemo ih na lageru početkom Rujna URL',negative
+'А брижни  \n\nPrijetnje službenicima Porezne uprave neće se tolerirati!\nURL',negative
+'Јос два школска часа без одмора до краја радног времена ',negative
+'USERNAME  ае дуже траје ако је заштићена од елемената ',negative
+'USERNAME  USERNAME  прва ствар која ми је пала на памет је да су то USERNAME  и њезини  ',negative
+'Elle: \"U srpnju nas očekuje retrogradna Venera - razdoblje koje loše utječe na ljubav, financije.\" \nIsse, šta sada, kako nastavit život?? ',negative
+'USERNAME  USERNAME  нее  било је шупкања о томе али, забога па то је најпрепознатљивији визуални експонент USERNAME ',negative
+'USERNAME  USERNAME  Зељка ',negative
+'не јавља ми се Архиеписком атински и целе Грчке ',negative
+'USERNAME  Неудобних ли столица... ',negative
+'отпали планови за море ',negative
+'USERNAME  чабе кад смо рупа, црна и дубока.. ',negative
+'У последње време само негативне вести око мене, гомила младих болесних људи од аутоимуних болести, рака, леукемије и сл... Ужас ',negative
+'USERNAME  \'\'vojsovci\'\' се натјечу тко ће издати ружнију пјесму ',negative
+'их сама  URL',negative
+'Kako Wal Mart брани синдикално дјеловање? Дође ми да се одмах учланим у неки синдикат.... ... URL',negative
+'USERNAME  ове будуће су појели већ неки други љигавци ',negative
+'Банана од државе  URL',negative
+'USERNAME  испада да њиховим уласком тада су највише профитирале њемачке и француске компаније,уз благослов њихове политике!',negative
+'Која трагедија за Ђурђеновачки крај  #našice #hrvatska USERNAME  USERNAME   URL',negative
+'USERNAME  занимљиво је да су грчки,као и талијански подаци и још неких чланица били фалсифицирани приликом уласка у еурозону!',negative
+'USERNAME  тешко је то рећи,све су то игре без граница,мислим да задњу ријеч ће имати Њемци,јер имају највише уложеног новца!',negative
+'USERNAME  нешто ће морати учинити,јер то би могло изазват катастрофалне посљедице!',negative
+'USERNAME  тај лихварски капитал их је увијек извлачио и дан данас би,нажалост!',negative
+'Успио је написати само једну једину ријеч  URL',negative
+'USERNAME  rip одиле ',negative
+'USERNAME  мислио сам да си очврснуо у ЈНА, као друг и као старешина ',negative
+'Од блата и пужева ',negative
+'СВИ СУ УЗ ЊУ У ОВИМ ТЕШКИМ МОМЕНТИМА  URL',negative
+'// мати ае ',negative
+'USERNAME  према његовим речима Грцка је на ивици признања Косова ',negative
+' знаност о мору нема изванредне студенте. Штета',negative
+'У Загребу није било лијепо задњих 10 дана    ',negative
+'Отварање ружева, копање по марамицама, руке у међуножју, изување ципела и стајање насред улице у чарапама док аути и људи пролазе ',negative
+'USERNAME  да, али то је рационално. с тиме би издали своја обечања и спасили земљу. овако... ',negative
+'За сусједним столом у башти нечија беба плаче, тачно јој се Жељке Цвијановић котрљају низ лице... \n\nUSERNAME  #BiH #kobebinasuza',negative
+'USERNAME  оде уГрчку наМоре.. ',negative
+'5 дана - 56 радних сати. Бит ће забавно. ',negative
+'USERNAME  Једнога дана химна свих Славена, али ово што се сада ради српским спортистима је чисто иживљавање и обест из (не)моћи ',negative
+'USERNAME  лептири слатки мали, који брзо умиру ? ',negative
+'Могу само да кацим депресиwне слике на tambler ',negative
+'USERNAME  Ма,ауто пролази технички..новци су у питању ',negative
+'Никад нећу скужити мртвило Boiler room публике... ',negative
+'USERNAME  зубовићи ',negative
+'USERNAME  800 дин на Каленићу... ',negative
+'Вечерас последња епизода Top Gear ',negative
+'\"Дискретни и удобни улошци за увећање висине, нико неће ни приметити да их носите.\"\n\nКомплекс се не лечи улошцима  URL',negative
+'USERNAME  Кад је то сучељавање отприлике? Провртих мало крај треће, још ништа. ',negative
+'USERNAME  их кад би тако у Хрватској било...ал не буде.. ',negative
+'их  их  их  их ',negative
+'USERNAME  дјеца из Африке су могла појести ту ракету ',negative
+'USERNAME  задња два бизантска цара су били срби, али никад хрват није био аустроугарски цар ',negative
+'USERNAME  нажалост ',negative
+'RIP Горан Брајковић \nURL URL',negative
+'зауставили су ме неки американци да ми испромовирају своју религију. моје прво питање је било има ли обреда с масовним оргијама. нема ',negative
+'USERNAME  ово мени упућено? ',negative
+'мајко света, нек ме нетко води на њих pliz pliz.   \n\nMuzika.hr - Mando Diao prvog dana 17. Špancirfesta URL',negative
+'USERNAME  И ја нишаним једног бацача пикаваца већ данима ',negative
+'Надљудска снага је када кажете дијетету да ће јести сладолед послије операције  URL',negative
+'Тражиш добру страну у поразу, ау тешко..Катаи и израел. Лазетић једини  постава  омладинска школа  стратегија  чак и синоћ Делије ',negative
+'USERNAME  Па понижавање индијанаца им је у опису посла ',negative
+'USERNAME  испадам са инетернета ',negative
+'Мени је зао Надала, није угодно гледати пад врхунског спортисте ',negative
+'Да је бар био још покоји August Landmesser па да се супротставе Хитлеру.  URL',negative
+'me flejt ne 3 edhe me u qu ne 7, veq bebat ma bojn ket sen ',negative
+'USERNAME  зашто доћи у shoppe ако не желиш shoppe угођај ',negative
+'USERNAME  myane myane hajima. : ((',negative
+'Видимо се у септембру ',negative
+'USERNAME  ипак два нула ',negative
+'Рајко не зна да користи своју лумију 535 ',negative
+'Даклем, за лето 2015. у моди су мрави :/ Летеци приде а то трази нови логистицки приступ. Мазино линија је пробијена ',negative
+'USERNAME  теку ми сузе у облику маказа којима су примили гол ',negative
+'Шапат у времену ',negative
+'USERNAME  ... Да, време је једини необновљиви ресурс ..... ',negative
+'спадај Brown ',negative
+'USERNAME  Сад ће браћа да повуку контрарезолуцију ',negative
+'Сви су на ролама!!А ја своје бацио ',negative
+'пола ја пола будући студент медицине\nматора сам ',negative
+'Војине, молим те! \n\nПффсс',negative
+'дам услов за наредну годину и исписким се по сиротињи ',negative
+'USERNAME  URL На којег ти владику личи Džim Keri? ',negative
+'Предходници су ишли на ганглије и на ону ствар, али ово је к***ње на суво у здрав мозак ',negative
+'johnny прелијеп си ал те тако тешко цртат ',negative
+'Не могу да поднесем Scotta и Kiru вратите Alison  #TeenWolfSeason5',negative
+'USERNAME  USERNAME  изумрла та сорта ',negative
+'Повера Рома  URL',negative
+'USERNAME  позз тати, и мој динамовац је проблемима  тешки дани за Динамо и Домовину',negative
+'Ни данашњи охрабрујући контролни налази неће поправити расположење мом тати  #JeSuisZdravko',negative
+'URL  хитно требамо склониште за маце // too many animals are in need for a shelter  #zagreb #cat #cats',negative
+'Ново поскупљење \n URL',negative
+'USERNAME  USERNAME  како ствари стоје, после следећих избора, сви ће бити власт  конгломерат лицемера, лажова и лопова...',negative
+'Истанбул има Galatu,Efes,Fener,Darusafaku,Besiktas.... али и друге јаке регионалне центре у #косарка . Ми само БГ. Економија и спорт ',negative
+'Чуј \'ко се јавио... HGK. \n “USERNAME : HGK: Хрватски јавни дуг на забрињавајућој разини URL URL',negative
+'Златан  URL',negative
+'Сребреница - 20 година   URL',negative
+'USERNAME  USERNAME  Ево неки су тужни што Грчка има хомогену структуру националности па не може да избије грађански рат као код нас. ',negative
+'USERNAME  & USERNAME  могла би резолуција и о Хирошими и Нагасакију ако су такве резолуције у \"моди\"  само стотине хиљада невиних ',negative
+'USERNAME  и ја патим за том звездом гранда ',negative
+'USERNAME  USERNAME  а ранохришћански споменици су престари за чување ',negative
+'Ови пападачи су почели од јутра да нападају ',negative
+'USERNAME  раду ',negative
+'Азра је муслиманско име ',negative
+'Шамперту ће неко да плати 40 милиона да и наредне четири године игра солидну одбрану и промашује отворене тројке са оном фризуром.  #nba',negative
+'Волео бих да ме Јовица пошаље у Lyon у четвртој години али шансе су ми јако маwе : (',negative
+'Намјерили сте се на Varufakisa i Tsiprasa јер су мотористи.  #Grexit',negative
+'неумим граматику ',negative
+'ТУГА   ..  Умрла док су јој сахрањивали мужа и кћерку  - URL URL',negative
+'USERNAME  Био је дивно друштво за кафану...  USERNAME  USERNAME  USERNAME ',negative
+'USERNAME  хирошима ',negative
+'USERNAME  linux ',negative
+'USERNAME  мање од 2.000 ',negative
+'Данашњи дан... метеоролози нису најавили падавине...  URL',negative
+'USERNAME   USERNAME  ГОСПОЂО, Ви не разликујете Његоша од Бибилије .... То је напредна Србија   ',negative
+'USERNAME  My thoughts exactly!!! Ја ћу бит у вези с инстаграм профилима ',negative
+'Критично је кад ти одбију Динерс за 19кн у KFC-у \nOn the other note Rocker је јако фин. Пробао ми је дечец увалити сир и сланину ',negative
+'Била једном једна земља гдје су вјеровали да нема краја томе што троше више него зарађују. Нажалост, код нас је још увијек тако... ',negative
+'USERNAME  Издоминирао си ме као #LepiLaza Павловића, са све оном гестикулацијом после закуцавања. ',negative
+'Chumbawamba су  фантастичан бенд и баш је штета да су заправо најпознатији по једном цоверу албума. ',negative
+'Девет вођа смакнуто на лицу мјеста малоприје !!!\nYa Allah  URL',negative
+'Парагвај испао од Аргентине у полуфиналу Copa America...\n\nЏаба онај худњак уби дајџу оним пеналом против Бразила. ',negative
+'и рођена мајка ме кулира ',negative
+'USERNAME  Секунде?! Ја увијек рачунао 5 минута... ',negative
+'Ноди се деактивирао? ',negative
+'USERNAME  USERNAME  сликала бих бар индеx али шестице ',negative
+'USERNAME  вечити извор фрустрација.  који је сад предмет?',negative
+'USERNAME  сликају мини бургере у presidenty ',negative
+'USERNAME  ма кога боли курац за њих АЛИ ЏЕНИФЕР И БЕН, ЂОРЂЕ, ОНИ СУ САВРШЕНИ ',negative
+'Честитам 1.јул свима који славе \nUkine URL i hvali se da se modernizovao. Odgovor USERNAME ? URL',negative
+'Двије године од уласка ХР у ЕУ, а датум за БиХ се не назире ',negative
+'USERNAME  сарајево. ',negative
+'USERNAME  презрело за ново Торинско, пардон, белградско платно ',negative
+'Шаран порцијаш! Враћено у воду.  URL',negative
+'#ufc189 ипак Алдо отпао  Значи Mendes - McGregor',negative
+'USERNAME  USERNAME  мени задња рата за 11 година ',negative
+'Tweet из спратног домског тоалета: у кабини поред лик појачао музику, Aventura - Obsesion ',negative
+'У USERNAME  нова сексистичка реклама   Једини смисао живота жене је ОН? Зар смо у 1915? #fail URL',negative
+'није тамара близнаковиц једина која је користила један исти photosession за висе разлицитих албума  URL',negative
+'USERNAME  немам могућност увида у федералну праксу, осим онога што има на интернету. ',negative
+'USERNAME   Златан ',negative
+'USERNAME  Зашто  ? Не иде  ти  се  из  Босне, или  у де  двије  земље',negative
+'USERNAME  а Пановић паметан  , ал\'  слузав!',negative
+'USERNAME  Премијер ',negative
+'разводе се Ben Aflek и Dženifer Garner, па ово ће ми теже пасти него развод сопствених родитеља ',negative
+'Тото изводи Африку у овом тренутку. ',negative
+'а ово већ јесте пристојан споменик...Достојевском...а ми ни од ког не учимо...али то је било јуче... URL',negative
+'USERNAME  па трк до ње на брзака ',negative
+'USERNAME  USERNAME  USERNAME  USERNAME  \n...процени размера злочина. ',negative
+'USERNAME  Аутобус до Муна ће коштати ко трајект до Виса. ',negative
+'Ваља се сад снаћи на њемачком  URL',negative
+'USERNAME  грозно, рес грозно је било  USERNAME ',negative
+'Још један монолог, са упадицама новинара ',negative
+'USERNAME  Ужасно. Комплицирано, архаични језик, сељаци, млин, пичке материне.  Ali informatiku obaveznu nemaju.',negative
+'Indexi \"Žute dunje\"  URL',negative
+'USERNAME  лектори су нам писмени, али су такође и запослени ',negative
+'Ново поскупљење \n URL',negative
+'USERNAME  проблематика.. ',negative
+'USERNAME  дивљаци су, извини ',negative
+'Убићу се... Најбољи фрајери на лајни гејеви.  USERNAME  USERNAME  USERNAME ',negative
+'USERNAME  USERNAME   Наш \"систем\" безбедносних провера је извор дискриминације генерално, не само Рома!',negative
+'Сређивање визе је тако \"For God\'s sake\" ',negative
+'USERNAME  а српски медији се таман понадали ',negative
+'USERNAME  USERNAME  USERNAME  USERNAME  мислим њихове личне евентуално страначке..',negative
+'Два концепта одрастања  URL',negative
+'USERNAME  предугачо за gif ',negative
+'USERNAME  Али се и даље противим друштвеним нормама бријања! ',negative
+'USERNAME  не ваља се понадати с њим ове године ',negative
+'Боже сачувај  URL',negative
+'Fruttini је повукао из продаје спреј са кокосом и бананом ',negative
+'USERNAME  кључ приче је у значењу термина јавни интерес. Покушаћу написати текст о томе. Проблем времена  USERNAME ',negative
+'Истанбул је пун прелепих мушкараца који носе \nМОКАСИНЕ ',negative
+'USERNAME  Била ми је супер на XФ-у! А онда је постала сва нека трула. ',negative
+'USERNAME  све док се не окупи критична маса таквих који су прошли као ти, ништа од реакција друштва и институција. istraj, šta da kažem ',negative
+'иде билдер из теретане пије шејк а торба која му виси на рамену виша од њега ',negative
+'Дође плавуша и нестадоше економске теме...  USERNAME  USERNAME  USERNAME ',negative
+'Угинула је Тама, маскота и шеф станица Wakayama Electric жељезничке компаније. \n\n~Borna URL',negative
+' Al Jazeera Objektiv: Марко и Маријана  | Al Jazeera Balkans URL via USERNAME ',negative
+'USERNAME  Да, има их...толико о \"уредјеном и организованом\" систему када га се ови експерти дохвате ',negative
+'USERNAME  Сувише је велики улог да не успе, малтене све државе дугују малој групици. Ово ће бити показна вежба ',negative
+'USERNAME  Грчку ће да преваспитају као пример другим дужницима ',negative
+'USERNAME  и однос према тој истој историји  URL',negative
+'USERNAME  профил попуњен, add на други ',negative
+'Штетни у центар ',negative
+'USERNAME  па извини прегласна је музика а ти се не дереш ',negative
+'Сестра од Рузице В у ријалутију #Maldivi . ',negative
+'USERNAME  америка и енглеска бит це земља пролетерска ',negative
+'Локације будућих радара  URL',negative
+'хвала, такође  URL',negative
+'наравно да це свака творница која иста вриједи у хр изгорити ',negative
+'USERNAME  Нова. Нема умањена на основу година старости  Što je prethodno bilo pretpostavljam 40\% USERNAME ',negative
+'USERNAME  познато ',negative
+'USERNAME   тетка ми је умрла од сепсе.крај приче. Људскост,хипократова заклетва....лудом радовање 😞',negative
+'USERNAME  Али масница и hello kitty ',negative
+'Посљедња епизода.  и  #TopGear',negative
+'USERNAME  да,али постоји и она друга страна приче,Грци су увијек живјели ван својих могучности,сад би остали требали испаштати!',negative
+'USERNAME  Насер Ориц је за ратни злоцин добио двије године. Све је релативно  #Samokazem',negative
+'USERNAME  Крунићка испусти брејк предности ',negative
+'вјероватно је било баш тешко уписати се на удг ',negative
+'USERNAME  USERNAME  шта ли је у књизи за \'велике\', илустације аписаног ?',negative
+'USERNAME  на сопствени очај, примећујем да све касније (током године) и све ређе носим праву летњу одећу, лаке хаљинице и слично ',negative
+'USERNAME  А и то је \"лички ханбургер\" лако истиснуо као тему. ',negative
+'Share, share, share! Прочитајте јако тужну причу  URL',negative
+'Шта ако се сруши еу шта ћемо са оним силним мастерима и смеровима за евроатлантске интеграције и курсеви и канцеларије и семинари и све ',negative
+'USERNAME  USERNAME  волео сам микана и његов албум из сити рекордса ',negative
+'USERNAME  Код нас је незапажено пропала цела привреда ',negative
+'USERNAME  Рација испред клуба ',negative
+'људи поремећеног тежишта ',negative
+'Мени пријемни за две године ',negative
+'USERNAME  веч дуго  а десница је успјела у свом успону са левим књигама хегемоније од Грамсција до Алтхуссера',negative
+'Екипа која ти у уреду из чашице вади разнобојне маркере и остали уредски прибор и не враћа на мјесто као да је то no biggie >',negative
+'На 100 сам мјеста пробала минералну воду с аромом али ми увијек недостаје Sensation ',negative
+'USERNAME  шта ће нама базилика из IV века ',negative
+'USERNAME  мало је карактера за објашњење колика је то превара!А јав дуг се скоро удвостручио, 26млди итд...Илузорно вама појаснити ',negative
+'Азербејџан је у Европи? Мом професору географије треба дат јединицу! Учио нас је погрешно ',negative
+'USERNAME  USERNAME  А,туристичка нација.....',negative
+'USERNAME  цијеним подршку ',negative
+'USERNAME  \nSith - тајна организација из Ратова Звезда\nОвако прича Master Joda, такође лик из филма\n\nСаша не знаш ништа ',negative
+'USERNAME  jazz принцеза једина је певаљка која има боље писме који нису синглови од синглова  #whyismylifesohard',negative
+'Мостови без река  URL',negative
+'За прскање комараца у #Зрењанин-у издвојено 24 милиона динара, међутим комарци уједају, изгледа, за све новце ',negative
+'Штета, велика штета  URL',negative
+'Боже правде химна светске спортске асоцијације ',negative
+'USERNAME  USERNAME  црвена је најбоља ',negative
+'USERNAME  ово је година посебних сједница  #papak #referendum #struja',negative
+'Нови проблеми за филмску адаптацију Uncharteda  #uncharted\nURL URL',negative
+'Ко гре илузија по злу...  Criss Angel URL',negative
+'Mike  WALTER TE ODIOO',negative
+'USERNAME  има разног народа ',negative
+'USERNAME  Е то већ јесте ',negative
+'USERNAME  клета карма ограничава ',negative
+'USERNAME  спонзорисано је и искакаће док год плаћају ',negative
+'USERNAME  то је средина ',negative
+'USERNAME  таман посла, ово је нови почетак! ',negative
+'USERNAME  полицајац на мотору је закаснио 10 секунди ',negative
+'USERNAME  А тоо  пресјекло ме да је заувијек  USERNAME ',negative
+'Jel Klix NightLife не ради због рамазана ',negative
+'закључате слике на инстаграму под изговором да желите да буду приватне  да је то истина развијали бисте их и стављали у албум за слике',negative
+'Ово је земља Николе Тесле, а у школама децу учимо Дарвинову теорију. ',negative
+'Све саме Сандре Африке и Станије Америке. ',negative
+'USERNAME  да, живимо у времену кад је то релативно нормално у широј популацији младих дјевојака што је по мене изузетно погубно ',negative
+'бива ми се готичарка са ексером у бради и на језику али ми наука психологија не дозвољава ',negative
+'Хлхеб, сатараш, пилетина, веш, пеглање done! а холандски? ',negative
+'USERNAME  Везано за ТО сто спомену на крају војвода Радомир Путник би (да се стварно окрце) до сада прокопао тунел до Јузног Пацифика ',negative
+'USERNAME  USERNAME  И вероватно је сматрала да је њено право да се шетка туда? ',negative
+'USERNAME  био је солидан на манагеру ',negative
+'USERNAME  јао социологија  положила сам то пре 4.5 године ',negative
+'USERNAME  USERNAME  Само ријечи......На дјелима се виде јунаци....Нација само тоне ли тоне....',negative
+'USERNAME  за добро/зло, живот/смрт, истина/лаж можда факат и јесу слијепи, али лијепо/ружно итекако куже. ето проблемā ',negative
+'Графит је пре неки дан био ишаран... URL',negative
+'USERNAME  oce \n\nKo Shari јер није освојила мики маус у акапулку ове године 😂😂😂',negative
+'USERNAME  ја морам једну страну\nКазе google боље десна, а ја увијек лијеву\nFederer лијево ',negative
+'USERNAME  изузетно ',negative
+'USERNAME  USERNAME  Поред Вас је и громадна Сидни Мина Костић ',negative
+'USERNAME  претпостављам нека исфрустрирана колегиница ',negative
+'Каос на Тајвану, стотине људи озлијеђено!  URL',negative
+'Први пут видим спот за \'\'Hero\'\' од Enriquea и расплакало ме  MESS',negative
+'проводе ли људи вечери уз филмове с queen latifah? ',negative
+'USERNAME  није истина,они који су осуђени,ти робују!',negative
+'USERNAME  ...осјетили на својој кожи!',negative
+'USERNAME  по чему ратни злочинац?',negative
+'USERNAME  стерилиши је након порођаја ',negative
+'USERNAME   Па био је још дивнији док нису посекли сво дрвеће и побацали легендарну жуту коцку на отпад ',negative
+'Повера Хермионе  #harrypottereidonidellamorte',negative
+'USERNAME  USERNAME  Веома битна ставка вјера-зрно грашка је превелико за невјернике.....',negative
+'USERNAME  има већ ',negative
+'Chris Liebinga EXIT најављује као ПРЕЗГОДНОГ БАРДА ',negative
+'Човјек сублером мјери дебљину тортиље (RTL). Сита је ова цивилизација. ',negative
+'Not sure if урбан градски лик или сиромах ',negative
+'USERNAME  деактивирао се ',negative
+'Колегица ме тјеши због вешмашине  URL',negative
+'Једини гори укус у устима (дуг, досадан, непријатан) од белог лука оставља лек на неком зубу ',negative
+'А на таксу још и ПДВ ко и на накнаду за фиксни и остали порези и прирези - откази не искључују обавезе ... ',negative
+'USERNAME  најгоре, искориштавају апликацију за свој >wanderlust< умјесто да искориштавају нас домаће ',negative
+'нгм решава; а ови неки скрећу тему.. е и ја не држим пажњу.. ',negative
+'USERNAME  USERNAME  USERNAME  дакле поређано по величини сиса у овој групици: \nBane\nPera\nMia\nJa\n',negative
+'Финале европског за жене у 19h a BeoBasket stars у 20h. ',negative
+'USERNAME  Yes! Синоћ били неки типови. ',negative
+'USERNAME  а дјевојке? ',negative
+'Шифра за wifi у рестрану Ловац на Врачару је bambi011 ',negative
+'Штрумф град није на Европском континенту...  USERNAME  USERNAME ',negative
+'Прошле године сам добио 2 плаће у једном мјесецу,једну закашњелу и једну редовну.Држава ми је узела 500кн од једне и одлучила то задржат ',negative
+'USERNAME  ,шаљем kiss и позитивну вибру ',negative
+'USERNAME  Видјела да ти је мали и уништио си њене влажне снове. ',negative
+'USERNAME  Носталгија у касне сате ',negative
+'USERNAME  мени тако? јел лијепо то Саса ',negative
+'USERNAME  промаја ',negative
+'И испашће Исидора  #pinkovezvezdice',negative
+'USERNAME  ...у каквим су они говнима ',negative
+'Овај Thompson је такав земљак ',negative
+'На Flow Festivalu нема ниједне чаше на поду, вино се пије из стаклених \nPreneugodno je bit seljak na zapadu.',negative
+'USERNAME  ја не видим шта не штима осим сјаја  in my defence, припадам субкултури по облачењу и имам неконвенционалан посао ',negative
+'USERNAME  сол на рану! ...... Узивај !',negative
+'slash лијепо почне у 19h а овај USERNAME  педер почиње у 01h. ',negative
+'USERNAME  ја сам Gumshoe Glory, A+  значи матора сам и памтим као слон ',negative
+'А Соња Петровић, једна од најбољих европских играчица, захваљује се новинарима што прате женску кошарку. Па ',negative
+'USERNAME  USERNAME  Форwардуша, РС ту објави шта им већ пошаљу уколико је занимљиво. Имају они тај обичај. Али ово је чиста теорија!',negative
+'USERNAME  Била је, два тетануса, нема купања до краја мора ',negative
+'мањи/већи, виши/нижи ',negative
+'USERNAME   Zapisi ovo\nУ Букуресту це у 3RQ ици на Shvedovu, која је требала у МД ал касно пријавила турнир ',negative
+'Једна сарајевска студентица има проблем са задатком, помозите јој URL #radiosarajevo USERNAME  Pa šta je problem? ',negative
+'одрезала сам свом миљенику royal jewels. he\'s violently ignoring me. ',negative
+'запросио ме!\n\nкуну. \n\ni said no. B|',negative
+'Секуларност у Србији, КОЈА секуларност? \n\nURL URL',negative
+'Само у Србији две године...  URL',negative
+'Опет терористички напад у Тунису... А некад су били мирна туристичка дестинација. Овај напад је извршен у једном од хотела где сам био ',negative
+'USERNAME  Бадава.Терају га за Босну. ',negative
+'Најмање 13 убијених у терористичком нападу који се догодио данас у једној од кувајтских џамија.  URL #Kuvajt',negative
+'USERNAME  Ко још Гаврића рачуна као играча  можда за Лав куп.',negative
+'Рузица Кокић је умрла \nUSERNAME ',negative
+'бејби, донт крај  URL',negative
+'USERNAME  USERNAME  USERNAME  Угао Михаила Аврамовића и Јоце Јовановића. Галерија на жалост расте  URL',negative
+'Грег Попович за дан одложио сатанизацију Душка Вујошевића. ',negative
+'нови професор из математике долази из мексика сви цемо попадат ако они иста знају је математика откад имају оне картеле ',negative
+'Средњошколац у David Guetta мајици прича френду как му на шугави мобител нису стали сви Thompsonovi албуми. : (',negative
+'#Padova #Italy Иначе прекрасан главни трг, окружен штандовима  URL',negative
+'Режије 2300кн овај мјесец... дивота ',negative
+'Након кориштења апликација, сви идте на ОВАЈ екран. И радите грешку.  URL',negative
+'Мој утисак: еxтремна десница - националисти најјаче упориште имају у високошколским установама. И као политичка опција су најобразованији ',negative
+'USERNAME  данас ће прва кафа каснити  терен и жесток рад!',negative
+'USERNAME  Тако нам сустав ради, техничко ограничење.  Није савршен, ал је наш. ¯\\_(ツ)_/¯ *RC',negative
+'све чешће у аутобусу стојим поред момака са боље издепилираним ногама и обликованим обрвама од мене ',negative
+'USERNAME  криза и неимање новца за основне потребе повећавају нервозу, а самим тим и насиље у породицама и уопште ',negative
+'USERNAME  Не бих рекао да тоњење спада у пловљење... ',negative
+'USERNAME  ее побјезее... ',negative
+'USERNAME  Да,али не говоримо о истој врсти \"чишћења\"  Гледао сам људе утоварене у камион као дрва.Дефиниција?USERNAME  USERNAME ',negative
+'USERNAME   Ништа од торте ',negative
+'USERNAME  USERNAME  USERNAME    Намера је била да се\"очисти\" тероторија.Тако се то у рату звало  Геноцид,најблизи опис! Био. Видео.',negative
+'селекција добрих документарних видеа на овом youtube је коњски посао који изискује висе енергије него сто имају 4 коња ',negative
+'USERNAME  ми (у македонији) се томе надамо већ 9 година ',negative
+'Оливер Млакар у домољубном заносу улизује се Колинди на Бундеку а \"велики \"Рватине пљесцу на химну!Одох куци ',negative
+'Излете се Chadda да су избори у децембру. Е мој Chaddo, испаде ти из коалиције ',negative
+'Купамо се на мјестима о чијим цијенама медији не пишу.  URL',negative
+'USERNAME  италијански ',negative
+'Рак дебелог цријева  Енигме опаке болести URL',negative
+'Ejdzent Gibbs попије 2 dcl вискија и онда иде пуцат ',negative
+'\"Да ли ти је мама рекла да голи пупак с\' дијаманатом позива на сексс?\"\n*ШАМАР*\n-сста ти је екстра форица  !',negative
+'Dosta okej mancrush na ovog Kneza imam ',negative
+'USERNAME  јачање централне власти, развој трговине, новчана рента, стајаћа војска ',negative
+'USERNAME  fan fekt није састављен јер ереб и нимфиц не зеле да убијају крвнички ',negative
+'гледати pride & prejudice или the theory of everything \nživot je tako težak',negative
+'USERNAME  Или ће проћи као Лазовић ',negative
+'USERNAME  Е и вишак запослених имају, а ту се све приче о смањењу буџета завршавају  USERNAME  USERNAME ',negative
+'USERNAME  Осамостаљују се сада много брже него пре, али у другим земљама  USERNAME  USERNAME ',negative
+'Први сусрет са смрћу . Лик претиче у супротној траци и просао је на пар cm од нас  #tamoamo . Претрнуо сам....',negative
+'тетка: ко ти предаје грађанско, нека млађа или старија?\nа: ма ево млада је већ 60 године\n\n\n',negative
+'i am gonna be a bubblegum bitch, не ради трафика не могу да купим зваке  ',negative
+'USERNAME  \'На трапезу локалног циркуса\' је ипак моја лична карта.  \n\n😂',negative
+'USERNAME  на врху  нису признали елементарну непогоду приватној фирми',negative
+'USERNAME  У овој земљи је народ постао небитан.Гладни? Па шта, Болесни? Па шта Понижени?веома...',negative
+'USERNAME  још увек ништа није прецизирано за win app  Банка ће у току године размотрити увођење ове апликације.',negative
+'\"Николић: Орлићима сам као отац.\" Сирота деца. ',negative
+'глуми Александра Македонског, док се диви USERNAME  А може и као на слици!?  URL URL',negative
+'USERNAME  ех.... Знајући ову рају, оптимистичних 10 година ',negative
+'USERNAME  у пећинцима су ',negative
+'Ово је једина друштвена мрежа која ми је остала а и на њој сам асоцијална ',negative
+'USERNAME  други мандат гурају сигурно ',negative
+'USERNAME  USERNAME  USERNAME  USERNAME  пецењаре. Сецам се јефног надлова у новинама: \"С ћумура на угаљ\" ',negative
+'USERNAME  USERNAME  USERNAME  sava se nas nanosala  сава се нас наносала  боље у амазонију, биће, вјерујем, директних летова с неког од аеродрома.',negative
+'USERNAME  боље у камен, н\'o у туђа аута ',negative
+'USERNAME  исто као и она с којом си био - прође вријеме  ',negative
+'USERNAME  Сагласан. Штета што је овде нема, а ове године ништа од летовања у Грчкој...',negative
+'USERNAME  Напредак и није у корист Срба са севера Косова. ',negative
+'USERNAME  ове године остало скоро 50\% варијетета непосејано  у октобру update сајта, од новембра креће продаја семена за наредну годину.',negative
+'USERNAME  искрено мене више привлачи Европа и \"јужније-тужније\" земље него ХрваЦка ',negative
+'И наравно сузе и адреналин.... ',negative
+'Ова фотографија је обишла свијет, а ово је прича која се крије изе ње  URL',negative
+'USERNAME  Што те брига, његове су паре  Али да, сад би радо имао ту лову коју дао за заручнички прстен који стоји у ладици  USERNAME ',negative
+'USERNAME  То је дискриминација бициклиста и кампера ',negative
+'USERNAME  Страшно. Трагедија. ',negative
+'ШОК Преминио бивши фудбалер Црвене звезде Горан Гогић URL \n',negative
+'R.I.P Драги Марко почивао у миру  URL',negative
+'USERNAME  Старији је Братунац. То је бар цињеница. А оба су страсни злоцини. Мене је због насег срамота, а Насер је у Сарајеву херој. ',negative
+'USERNAME  па попунили буџет овима са осталих смерова и њих петоро сиротана бацили на самофинансирање ',negative
+'USERNAME  све исто са истока и кретња веома дискутабилна, сакривање иза играча и стално уназад  који смо скаути..',negative
+'На фејсбуцима сам добила захтјев од лика који има албум са називом МЕНИ ДРАГЕ СЛИКЕ и учествовао је на обн мјузик талент шоВу ',negative
+'Болест. Тужна и веома опасна ментална болест  URL',negative
+'USERNAME  Одавно је ФБИ у Србији,одавно! ',negative
+'Ове године је ОСАМНАЕСТИ Motovun Film Festival. Мали Мамут је био на ДРУГОМ. Мамут је стар к\'о Библија ',negative
+'USERNAME  види Грчка од децембра 2014. има раст. У јануару 2015, један од већих у ЕУ. Видећемо бројке за јул ',negative
+'Грчка саудијском принцу који поклања 29 милијарди евра: Како то мислиш у добротворне сврхе?? ',negative
+'Кристина  URL',negative
+'USERNAME  Да, све објашњено у једној речи ',negative
+'Иде лик улицом и пева \"ТАНГАА, ТАНГА, РОЗЕ ТАНГА, СЛАЂА СИ ОД ЗРЕЛОГ МАНГА..\" \n\nШтета што не нишаним добро. ',negative
+'USERNAME  признавам, лезбејка сум ',negative
+'USERNAME  леле  иста мака делиме',negative
+'Туга велика...\nПочивај у миру Горане   URL',negative
+'URL Почивај во мир Гого ',negative
+'Žalosono...  \nШокантна вест стиже из Кине: Преминуо бивши фудбалер Звезде Горан Гогић | Фудбал | Novosti.rs URL',negative
+'Ауу туга!!\n\nПочивај у миру Гого!  URL',negative
+'Страшно  \nПочивај у миру, Горане',negative
+'Пар тренутака након примљеног другог гола...  URL',negative
+'USERNAME  Полина, живи  URL',negative
+'Никој не ме побара цел ден ',negative
+'Оћете задавити дјецу ако киксају на тесту интелигенције ? ',negative
+'USERNAME  И сада ми је тешко, једва издржавам ',negative
+'Јул, 2015.-та година, народу је и даље  забавна појава Кале Господар Времена ',negative
+'USERNAME  Има, ал испод тезге ',negative
+'Шах и - МАТ ',negative
+'USERNAME  те испуштија? ',negative
+'Секој втор ден примедби у фирма  URL',negative
+'з\nу\nи\nс\n',negative
+'USERNAME   во Paralija вајда-не знам.  USERNAME ',negative
+'USERNAME   синтезатор ',negative
+'USERNAME  и после млада добије жвале ',negative
+'Олдфаг\n   :-!   :-\\',negative
+'USERNAME  само 3 сати сум спијана ',negative
+'USERNAME  ти бар знаш о мом бићу од 112 цм не могу лагати нити шта скрити ',negative
+'USERNAME  Еј не? ',negative
+'USERNAME  да, да спремат испит до 6 сабајле ',negative
+'USERNAME  оди спиј ',negative
+'USERNAME  сериозно бе на 3ти јули?  крши нога!',negative
+'USERNAME  ти сосе сирење, сосе све си ја смачкала. ',negative
+'Трева имам ризли немам, аџанак баџанак ',negative
+'- Та, лажево - муж импотент на 100\% ...',negative
+'USERNAME  нај нај ',negative
+'Криво ми је што не постоји закон по којем би особи која у аутобусу дигне ноге на суседно седиште исте биле одсечене на лицу места ',negative
+'ал с друге стране миришу и комшијине свиње тако да се потире ',negative
+'USERNAME  чиорд ',negative
+'USERNAME  ЈА СА МОЈОМ ДИПЛОМОМ МОГУ ДА СЕ УБРИШЕМ! И СА ПРОСЕКОМ. Они ће ми бити колеге сутра.. ',negative
+'USERNAME   арт ова а ?',negative
+'Почело је почело... Мразам лупење ',negative
+'Укинули сладолед торту у McDonalsu  #tragedija',negative
+'USERNAME  од кумова Милош-Карађорђе, све до дана данашњег. ',negative
+'USERNAME  КОД НАС ПЕХАРИ И ОРДЕЊЕ САМО ПРСХТЕ  ',negative
+'USERNAME  као почетник сам имала отприлике 60\% плате почетника економисте у комерцијали у агровојводини, али ово  USERNAME ',negative
+'USERNAME  USERNAME  некада плата није била опредељујућа! Ово говори о квалитету и студија и оних који изађу са тих студија! ',negative
+'USERNAME  катастрофично и безперспективно ',negative
+'USERNAME  прецизније од 97-е   и за то исто време примљено је свега 5 судијских/тужилачких приправника... ',negative
+'#FLAWLESS\nЈедан једини и непоновљиви Philip Seymour Hoffman\n-Криво ми је што га више никада нећу гледати! ',negative
+'већ сад су језиве ',negative
+'USERNAME  USERNAME  На YT су макнули након 12к и 3 мјесеца. С Вимеа након 30к и пар година. До прије мјесец дана је био на Даилyмотиону ',negative
+'USERNAME  USERNAME  Управо открио да су ми након 5-6 година скинули видео с Даилyмотиона након 18к прегледа   На другим мјестима и прије',negative
+'USERNAME  Не желим да нас раздвоје, имамо само две руке. ',negative
+'USERNAME  Ех, да их је C и обновио за 2. сезону, до ње не би дошло. Туга.  Da, sumnjam da će Zoo dalje ove prve sezone.',negative
+'Зашто је градско дете у бановини ',negative
+'нема епизоде \nteškoe\ntužnoe',negative
+'У фирми су суптилно ставили катанац на фрижидер ',negative
+'Овај покушава да ме убије сунчаницом у подне.  USERNAME  USERNAME ',negative
+'USERNAME  крваве сузе ',negative
+'USERNAME  USERNAME  USERNAME  Иначе је он сав логика хехе...',negative
+'ПЕХРЕЗАВЕХРИЛА ',negative
+'USERNAME  Дискриминација на нивоу ',negative
+'USERNAME  Кој бе, од курви остана само кур ',negative
+'Оно кад ми дечко да да изаберем коју ћу нашу слику да ставим на његов инста и кад дођем кући схватим колко сам уствари ружна на њој ',negative
+'USERNAME  USERNAME  абе па и ја шакаам цицее.... ',negative
+'Надао сам се да је нека грешка... \nСада си на бољем месту, имењаче.',negative
+'USERNAME  шта дасе ради  није до тебе, до мене је',negative
+'USERNAME  Знам, сви ми кажу  \nО даа, Жабљак, Златибор, Тара... Све може ',negative
+'USERNAME  само и ово јесу порази,а они на терену се увијек дају исправити.Вјечна ти слава Горане,Делије те никад неће заборавити ',negative
+'За доручек, ручек, вечера\nтрипати на ден\nсамо торта јадам ',negative
+'Ну где бета стерека ',negative
+'USERNAME  А шта ћемо ми с нашом кризом? ',negative
+'Нисам знала да је овај Гогић био из Куле. Туга ',negative
