@@ -23,9 +23,9 @@ Application execution consists of the following steps:
 
 For tweet collection a part of Twitter's **REST API**, [Twitter Search API] (https://dev.twitter.com/rest/public/search) was used. For a given query with defined parameters API returns statuses that match those parameters. Before using this API, application has to be registered on Twitter.
  
-In order to get tweets with positive sentiment emoticon :) was firstly used as query. For negative sentiment, emoticon :( was used.
+In order to get tweets with positive sentiment, emoticon :) was firstly used as query. For negative sentiment, emoticon :( was used.
 
-Next table shows all the emoticons that Twitter maps to :), and emoticons that twitter maps to :( :
+Next table shows all the emoticons that Twitter maps to :), and emoticons that Twitter maps to :( :
 
 
 | Mapped to :)  | Mapped to :( |
@@ -39,13 +39,13 @@ Next table shows all the emoticons that Twitter maps to :), and emoticons that t
 
 It’s necessary to set up one more parameter that refers to the language of the statuses. That parameter is **lang** and is assigned a value of **en**, so only tweets in English language are retrieved.
 
-1000 positive and 1000 negative tweets were collected and stored in json files [resources/positive_en.json] (hhttps://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and [resources/negative_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json).
+1000 positive and 1000 negative tweets were collected and stored in json files [resources/positive_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and [resources/negative_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json).
 
 [twitter-api] (https://github.com/adamwynne/twitter-api) library was used for data collection. Before that, credentials given during application registration have to be used for authorization.
 
 ###Processing of the previously saved data
 
-Data from the files [resources/positive_en.json] (hhttps://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and [resources/negative_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json) is loaded.
+Data from the files [resources/positive_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and [resources/negative_en.json] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json) is loaded.
 
 For each status, emoticons are removed because of the noise they would create in training of the classifier. Regular expression used in this case is:
 ```
@@ -69,7 +69,7 @@ Text of the status from the previous step is stored in a file as a value for the
 
 ###Application of machine learning methods
 
-**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file resources/classifier.txt (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/classifier.txt). After the training, classifier should be able to correctly classify given status as positive or negative. [Weka] (http://www.cs.waikato.ac.nz/ml/weka/) and [clj-ml] (http://clj-ml.artifice.cc/doc/clj-ml.attribute-selection.html) libraries were used.
+**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file [resources/classifier.txt] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/classifier.txt). After the training, classifier should be able to correctly classify given status as positive or negative. [Weka] (http://www.cs.waikato.ac.nz/ml/weka/) and [clj-ml] (http://clj-ml.artifice.cc/doc/clj-ml.attribute-selection.html) libraries were used.
 
 ###User interaction
 
