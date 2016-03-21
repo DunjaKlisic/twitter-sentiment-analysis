@@ -19,7 +19,7 @@
 (def no-of-negative (atom 0))
 
 (defn collect-positive-tweets []
-	(let [w (io/writer "positive.json")
+	(let [w (io/writer "resources/positive_en.json")
 	      callback (AsyncStreamingCallback.
 	                 (fn [_resp payload]
 	                   (if (< @no-of-positive 1000)
@@ -39,7 +39,7 @@
 
 
 (defn collect-negative-tweets []
-	(let [w (io/writer "negative.json")
+	(let [w (io/writer "resources/negative_en.json")
 	      callback (AsyncStreamingCallback.
 	                 (fn [_resp payload]
 	                   (if (< @no-of-negative 1000)

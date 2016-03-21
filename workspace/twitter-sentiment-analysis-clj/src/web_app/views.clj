@@ -24,7 +24,7 @@
 
 (defn classified-tweet-results-page
   [{:keys [tweet]}]
-  (let [sentiment (da/get-sentiment "classifier.txt" tweet)]
+  (let [sentiment (da/get-sentiment "resources/classifier.txt" tweet)]
     (hic-p/html5
      (gen-page-head "Result")
      [:div {:class "pen-title"} [:h1 "Twitter sentiment analysis"]]

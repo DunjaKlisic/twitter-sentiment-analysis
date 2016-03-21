@@ -1,27 +1,30 @@
+(ns twitter_sentiment_analysis.data_formatting
+  (:use
+   [clojure.java.io :as io])
+  (:require
+   [clojure.data.json :as json])
 
+(defn strip-emoticons [text]
+  (clojure.string/replace text #"[:;=B](')*(-)*[)(P3DSO*sp]+" ""))
 
-(defn reduce-features [path]
-  (with-open [rdr (reader path)]
-  (doseq [line (line-seq rdr)]
-    (swap! formatted-tweets conj ((comp strip-repeated-letters strip-urls strip-usernames strip-emoticons) (:text (json/read-str line :key-fn keyword)))))))
+(defn strip-usernames [text]
+  (clojure.string/replace text #"@[A-Za-z0-9_]*" "USERNAME"))
 
-(defn save-formatted-tweets [path]
-  (let [io/writer path]
-    (doseq [tweet formatted-tweets]
-      (.write tweet))))
+(defn strip-urls [text]
+  (clojure.string/replace text #"http(s)*://t.co/[A-Za-z0-9_]*" "URL"))
 
-(defn reduce-features [path1 path2]
-  (let [w (io/writer path2)]
-  (with-open [rdr (reader path1)]
-  (doseq [line (line-seq rdr)]
-    (.write w ((comp strip-repeated-letters strip-urls strip-usernames strip-emoticons) (:text (json/read-str line :key-fn keyword))))))))
+(defn strip-repeated-letters [text]
+  (clojure.string/replace text #"([a-zA-Z])\1+" "$1$1"))
 
-(defn reduce-features-json [path1 path2]
-  (let [w (io/writer path2)]
-  (with-open [rdr (reader path1)]
-  (doseq [line (line-seq rdr)]
-    (.write w (json/write-str {:text ((comp strip-repeated-letters strip-urls strip-usernames strip-emoticons) (:text (json/read-str line :key-fn keyword))) :sentiment "positive"}))
-    (.write w "\n")))))
+(defn strip-commas [text]
+  (clojure.string/replace text "," " "))
+
+(defn strip-apostrophe [text]
+  (clojure.string/replace text "\'" ""))
+
+(defn strip-double-apostrophe [text]
+  (clojure.string/replace text "\"" ""))
+
 
 (defn reduce-features [path-positive path-negative path-dataset]
   (with-open [out-file (io/writer path-dataset) rdrp (reader path-positive) rdrn (reader path-negative)]

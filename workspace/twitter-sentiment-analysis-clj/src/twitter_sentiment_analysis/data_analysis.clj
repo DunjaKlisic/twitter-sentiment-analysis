@@ -18,7 +18,7 @@
  (.setSource (File. filename)))]
  (.getDataSet loader))))
 
-(def data (load-csv "trainingDataNew.csv"))
+(def data (load-csv "resources/trainingDataNew.csv"))
 
 (def filter-to-string (new weka.filters.unsupervised.attribute.NominalToString))
 
