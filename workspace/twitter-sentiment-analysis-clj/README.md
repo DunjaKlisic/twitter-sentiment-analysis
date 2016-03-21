@@ -13,7 +13,7 @@ Application execution consists of the following steps:
 
 2.	Processing of the previously saved data
 
-3.	Creation of data for trening
+3.	Creation of data for training
 
 4.	Application of machine learning methods.
 
@@ -39,13 +39,13 @@ Next table shows all the emoticons that Twitter maps to :), and emoticons that t
 
 It’s necessary to set up one more parameter that refers to the language of the statuses. That parameter is **lang** and is assigned a value of **en**, so only tweets in English language are retrieved.
 
-1000 positive and 1000 negative tweets were collected and stored in json files positive_en.json (https://raw.githubusercontent.com/DunjaKlisic/TwitterSentimentAnalysis/master/data/positive.json) and negative_en.json (https://raw.githubusercontent.com/DunjaKlisic/TwitterSentimentAnalysis/master/data/positive.json).
+1000 positive and 1000 negative tweets were collected and stored in json files resources/positive_en.json (hhttps://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and resources/negative_en.json (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json).
 
-Twitter-api (link) library was used for data collection. Before that, credentials given during application registration have to be used for authorization.
+twitter-api (https://github.com/adamwynne/twitter-api) library was used for data collection. Before that, credentials given during application registration have to be used for authorization.
 
 ###Processing of the previously saved data
 
-Data from the files positive_en.json and negative_en.json is loaded
+Data from the files resources/positive_en.json (hhttps://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/positive_en.json) and resources/negative_en.json (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/negative_en.json) is loaded.
 
 For each status, emoticons are removed because of the noise they would create in training of the classifier. Regular expression used in this case is:
 ```
@@ -65,12 +65,12 @@ Commas, apostrophe and double apostrophe are also removed, because data is going
 
 ###Creation of data for training
 
-Text of the status from the previous step is stored in a file as a value for the first attribute of the data that will be used for training. The second attribute is the sentiment expressed in a status, and has two possible values, **positive** and **negative**. This dataset is stored in a file trainingDataNew.csv (link).
+Text of the status from the previous step is stored in a file as a value for the first attribute of the data that will be used for training. The second attribute is the sentiment expressed in a status, and has two possible values, **positive** and **negative**. This dataset is stored in a file resources/trainingDataNew.csv (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/trainingDataNew.csv).
 
 ###Application of machine learning methods
 
-**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file classifier.txt (link). After the training, classifier should be able to correctly classify given status as positive or negative. Weka and clj-ml (linkovi) libraries were used.
+**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file resources/classifier.txt (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/classifier.txt). After the training, classifier should be able to correctly classify given status as positive or negative. Weka (http://www.cs.waikato.ac.nz/ml/weka/) and clj-ml (http://clj-ml.artifice.cc/doc/clj-ml.attribute-selection.html) libraries were used.
 
 ###User interaction
 
-User should enter the text of a tweet that he wishes to classify. After clicking the button **classify**, classifier is loaded from the previously saved file and used to classify newly created instance. A message with the result of classification is shown to the user. Libraries used here are hiccup, ring and compojure. (linkovi? Css?)
+User should enter the text of a tweet that he wishes to classify. After clicking the button **classify**, classifier is loaded from the previously saved file and used to classify newly created instance. A message with the result of classification is shown to the user. Libraries used here are hiccup (https://github.com/weavejester/hiccup), ring (https://github.com/ring-clojure) and compojure (https://github.com/weavejester/compojure). (linkovi? Css?)
