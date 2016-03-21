@@ -57,7 +57,7 @@ Next step is replacing usernames and links with tokens USERNAME and URL. Regular
 
 http(s)*://t.co/[A-Za-z0-9_]*
 ```
-Last step is finding the words that contain letters that are repeated more than two times in a row and replacing that letters with only two occurrencess. Regular expression used here is:
+Last step is finding the words that contain letters that are repeated more than two times in a row and replacing that letters with only two occurrences. Regular expression used here is:
 ```
 ([a-zA-Z])\1+" "$1$1
 ```
@@ -69,7 +69,7 @@ Text of the status from the previous step is stored in a file as a value for the
 
 ###Application of machine learning methods
 
-**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file [resources/classifier.txt] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/classifier.txt). After the training, classifier should be able to correctly classify given status as positive or negative. [Weka] (http://www.cs.waikato.ac.nz/ml/weka/) and [clj-ml] (http://clj-ml.artifice.cc/doc/clj-ml.attribute-selection.html) libraries were used.
+**Naive Bayes** classifier was used. Training of the classifier is executed on previously processed data, with class index set to sentiment attribute. Classifier is saved in a file [resources/classifier.txt] (https://github.com/DunjaKlisic/twitter-sentiment-analysis/blob/master/workspace/twitter-sentiment-analysis-clj/resources/classifier.txt). After the training, classifier should be able to correctly classify given status as positive or negative. [Weka] (http://www.cs.waikato.ac.nz/ml/weka/) and [clj-ml] (http://clj-ml.artifice.cc/doc/clj-ml.attribute-selection.html) libraries are necessary for this step.
 
 ###User interaction
 
