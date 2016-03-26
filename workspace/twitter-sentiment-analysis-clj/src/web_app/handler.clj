@@ -11,8 +11,8 @@
        []
        (views/home-page))
   (cc/POST "/classify-tweet"
-        {params :params}
-        (views/classified-tweet-results-page params))
+       {params :params}
+       (views/classified-tweet-results-page params))
   (route/resources "/")
   (route/not-found "Not Found"))
 
