@@ -63,8 +63,10 @@
 
 (defn get-sentiment
   [classifierFileName text]
-  (let [sentiment (classify-a-tweet classifierFileName text)]
-    (if(= sentiment 0.0)
-      (print-str "positive")
-      (print-str "negative"))))
+  (if (or (= " " text) (= "" text))
+    (print-str "You have to provide a text for classification")
+    (let [sentiment (classify-a-tweet classifierFileName text)]
+      (if (= sentiment 0.0)
+        (print-str "This tweet expresses positive emotions")
+        (print-str "This tweet expresses negative emotions")))))
 

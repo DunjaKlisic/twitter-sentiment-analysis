@@ -1,6 +1,7 @@
 (ns twitter_sentiment_analysis.data_formatting
   (:use [clojure.java.io :as io])
-  (:require [clojure.data.json :as json])
+  (:require [clojure.data.json :as json]
+            [clojure.data.csv :as csv]))
 
 (defn strip-emoticons
   [text]
@@ -24,7 +25,7 @@
 
 (defn strip-apostrophe
   [text]
-  (clojure.string/replace text "\'" ""))
+  (clojure.string/replace text "'" ""))
 
 (defn strip-double-apostrophe
   [text]

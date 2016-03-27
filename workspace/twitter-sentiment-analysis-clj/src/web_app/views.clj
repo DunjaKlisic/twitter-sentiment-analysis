@@ -1,6 +1,6 @@
 (ns web_app.views
  (:require [clojure.string :as str]
-          [hiccup.page :as hic-p]
+           [hiccup.page :as hic-p]
            [twitter_sentiment_analysis.data_analysis :as da]))
 
 (defn gen-page-head
@@ -36,7 +36,7 @@
      [:div {:class "module form-module"}
       [:div {:class "form" 
              :style "display:block"}
-       [:h2 "This tweet expresses  "sentiment" emotions"]]
+       [:h2 sentiment]]
       [:div {:class "cta"}
        [:a {:href "/"} "Try again"]]])))
 

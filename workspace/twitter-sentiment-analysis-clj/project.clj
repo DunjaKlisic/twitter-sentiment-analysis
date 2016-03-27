@@ -11,6 +11,7 @@
                  [hiccup "1.0.2"]
                  [ring/ring-core "1.4.0"]
                  [ring/ring-jetty-adapter "1.4.0"]
+                 [ring/ring-mock "0.3.0"]
                  [compojure "1.4.0"]
                  [org.clojure/data.csv "0.1.3"]]
   :main web_app.handler)
